@@ -28,7 +28,7 @@
 ## 目录结构
 
 ```
-finetune/
+embedding-finetune/
 ├── data/
 │   ├── corpus.json        # 私有知识库文档（15条）
 │   ├── test_cases.json    # 检索测试用例（12条，含失败场景标注）
@@ -39,12 +39,14 @@ finetune/
 │   ├── finetune.py        # 领域微调
 │   └── compare_results.py # 微调前后对比
 ├── run_pipeline.py        # 一键运行
+├── models/                # 微调模型输出（gitignore，需本地训练）
 └── results/               # 评估指标输出
 ```
 
 ## 快速开始
 
 ```bash
+cd embedding-finetune
 pip install -r requirements.txt
 python run_pipeline.py
 ```
