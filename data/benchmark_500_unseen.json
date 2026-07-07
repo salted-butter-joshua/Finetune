@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "unseen_0001",
+    "query": "帮我找文档消息消费重复了怎么处理可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0002",
+    "query": "帮我找文档QPS预估依据哪些历史指标（场景29）",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0003",
+    "query": "请教一下预估CTR需要哪些用户侧特征",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0004",
+    "query": "有没有说明发布配置前要走什么流程（场景26）有相关文档吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0005",
+    "query": "请教一下IT onboarding文档标题（场景34）？",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0006",
+    "query": "有没有说明转化率假设在容量评估里怎么用（场景26）？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0007",
+    "query": "请教一下微服务参数统一在哪维护谢谢",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0008",
+    "query": "想确认业务域和事件类型怎么拼Topic？",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0009",
+    "query": "麻烦查下日志输出手机号有什么限制可以吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0010",
+    "query": "请教一下月度结账要注意什么合规项（场景22）可以吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0011",
+    "query": "帮我找文档ES索引冷热分层什么意思谢谢",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0012",
+    "query": "ES索引冷热分层什么意思",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0013",
+    "query": "帮我找文档ES和MySQL慢查询是一类问题吗（场景34）可以吗",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0014",
+    "query": "业务域和事件类型怎么拼Topic（场景32）有相关文档吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0015",
+    "query": "大促之前容量怎么估",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0016",
+    "query": "请教一下推荐系统对新用户的默认策略？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0017",
+    "query": "帮我找文档SKU风控网关和ML模型怎么配合（场景32）可以吗",
+    "relevant_doc_id": "doc_003",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0018",
+    "query": "请教一下列表曝光后点击概率谁负责算（场景29）谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0019",
+    "query": "搜索集群熔断怎么配",
+    "relevant_doc_id": "doc_011",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0020",
+    "query": "压测报告要提前多久出",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0021",
+    "query": "请教一下99.95%可用性是哪个文档说的谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0022",
+    "query": "消息消费重复了怎么处理？",
+    "relevant_doc_id": "doc_013",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0023",
+    "query": "请教一下敏感字段脱敏规则汇总（场景26）有相关文档吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0024",
+    "query": "帮我找文档供应商对公转账是否同一流程（场景28）谢谢",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0025",
+    "query": "企业客户打款流程规范",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0026",
+    "query": "麻烦查下接口响应P99不能超过多少（场景29）有相关文档吗",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0027",
+    "query": "请教一下协同过滤在没历史时还用吗（场景33）谢谢",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0028",
+    "query": "请教一下时段特征对点击率影响大吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0029",
+    "query": "麻烦查下终端安全软件必须装吗有相关文档吗",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0030",
+    "query": "有没有说明新员工设备接入规范（场景36）有相关文档吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0031",
+    "query": "请教一下Apollo怎么做灰度放量",
+    "relevant_doc_id": "doc_005",
+    "category": "entity",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0032",
+    "query": "有没有说明SLA文档对延迟的要求（场景34）？",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0033",
+    "query": "有没有说明刷单团伙一般怎么被识别出来谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0034",
+    "query": "有没有说明点击概率排序靠哪个模型（场景38）可以吗",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0035",
+    "query": "一百积分相当于多少钱（场景34）有相关文档吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0036",
+    "query": "想确认预估CTR需要哪些用户侧特征有相关文档吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0037",
+    "query": "想确认订单履约状态在哪个平台看可以吗",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0038",
+    "query": "有没有说明异常单比如地址错了谁处理？",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0039",
+    "query": "帮我找文档取消交易后的退款路径（场景21）？",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0040",
+    "query": "麻烦查下ES索引冷热分层什么意思可以吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0041",
+    "query": "内容特征召回用在什么场景（场景23）有相关文档吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0042",
+    "query": "请教一下CTR模型里渠道特征怎么建（场景33）？",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0043",
+    "query": "会员分能抵扣现金吗规则在哪",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0044",
+    "query": "零行为用户推荐兜底策略（场景27）谢谢",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0045",
+    "query": "点击概率排序靠哪个模型",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0046",
+    "query": "想确认日志输出手机号有什么限制（场景33）有相关文档吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0047",
+    "query": "想确认配置回滚操作步骤",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0048",
+    "query": "运维那边说的SLA红线是啥",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0049",
+    "query": "拆成两个包裹发货在哪配置",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0050",
+    "query": "图谱关联怎么帮助抓黑产（场景35）谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0051",
+    "query": "麻烦查下消息队列消费失败重试策略（场景38）可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0052",
+    "query": "想确认对公账户付款谁能批",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0053",
+    "query": "想确认CTR模型里渠道特征怎么建（场景26）有相关文档吗",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0054",
+    "query": "有没有说明SLA文档对延迟的要求（场景30）谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0055",
+    "query": "帮我找文档Wiki权限找谁开（场景25）有相关文档吗",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0056",
+    "query": "请教一下订单路由到哪个仓谁决定（场景30）可以吗",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0057",
+    "query": "想确认仓库验货完成才退款吗谢谢",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0058",
+    "query": "麻烦查下顾客取消订单后钱怎么返",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0059",
+    "query": "想确认服务等级协议里写了几条硬性指标（场景33）谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0060",
+    "query": "类目特征在点击预估里怎么用",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0061",
+    "query": "想确认掩码处理手机号保留几位（场景30）谢谢",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0062",
+    "query": "有没有说明实时风控那台网关的说明（场景25）可以吗",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0063",
+    "query": "请教一下SKU风控网关和ML模型怎么配合（场景35）可以吗",
+    "relevant_doc_id": "doc_003",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0064",
+    "query": "想确认实时风控那台网关的说明（场景21）",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0065",
+    "query": "用户拒收商品怎么退钱谢谢",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0066",
+    "query": "有没有说明虚假账号批量注册怎么防（场景34）谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0067",
+    "query": "帮我找文档掩码处理手机号保留几位",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0068",
+    "query": "Wide&Deep模型在我们这用在哪（场景31）谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0069",
+    "query": "请教一下峰值流量演练流程（场景35）谢谢",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0070",
+    "query": "想确认点击率训练样本取哪些维度",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0071",
+    "query": "有没有说明忠诚度积分兑换政策（场景27）谢谢",
+    "relevant_doc_id": "doc_009",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0072",
+    "query": "帮我找文档会员权益里积分怎么描述（场景24）？",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0073",
+    "query": "想确认积分和优惠券能一起用吗（场景29）可以吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0074",
+    "query": "麻烦查下刷单团伙一般怎么被识别出来（场景29）可以吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0075",
+    "query": "有没有说明订单路由到哪个仓谁决定（场景24）有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0076",
+    "query": "帮我找文档忠诚度积分兑换政策",
+    "relevant_doc_id": "doc_009",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0077",
+    "query": "想确认履约路由规则文档（场景36）有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0078",
+    "query": "想确认转化率假设在容量评估里怎么用？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0079",
+    "query": "有没有说明双11容量规划文档（场景37）可以吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0080",
+    "query": "请教一下风控网关的规则引擎怎么用（场景38）可以吗",
+    "relevant_doc_id": "doc_003",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0081",
+    "query": "麻烦查下内容特征召回用在什么场景（场景30）谢谢",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0082",
+    "query": "请教一下积分体系有效期怎么算（场景25）",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0083",
+    "query": "帮我找文档异常单比如地址错了谁处理有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0084",
+    "query": "请教一下发票合规和财务制度在哪看可以吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0085",
+    "query": "帮我找文档公司转账合规审查点有哪些",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0086",
+    "query": "电商退货资金回流规则",
+    "relevant_doc_id": "doc_002",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0087",
+    "query": "请教一下银行卡号能不能写进debug日志（场景34）谢谢",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0088",
+    "query": "请教一下SLA文档对延迟的要求（场景24）谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0089",
+    "query": "想确认Wiki权限找谁开可以吗",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0090",
+    "query": "麻烦查下大促保障扩容checklist（场景27）？",
+    "relevant_doc_id": "doc_015",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0091",
+    "query": "CTR模型里渠道特征怎么建（场景25）有相关文档吗",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0092",
+    "query": "有没有说明内容特征召回用在什么场景（场景22）有相关文档吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0093",
+    "query": "帮我找文档对公付款需要哪些审批材料（场景26）",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0094",
+    "query": "没人买过的SKU如何获得曝光",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0095",
+    "query": "有没有说明供应商对公转账是否同一流程（场景27）？",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0096",
+    "query": "创建订单到出库的全流程系统",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0097",
+    "query": "请教一下一百积分相当于多少钱（场景21）可以吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0098",
+    "query": "有没有说明行为序列异常能说明什么问题（场景24）？",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0099",
+    "query": "点击模型和转化模型是一回事吗（场景28）？",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0100",
+    "query": "新员工设备接入规范？",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0101",
+    "query": "订单履约状态在哪个平台看",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0102",
+    "query": "麻烦查下顾客取消订单后钱怎么返（场景24）",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0103",
+    "query": "帮我找文档峰值流量演练流程（场景38）有相关文档吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0104",
+    "query": "时段特征对点击率影响大吗（场景30）？",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0105",
+    "query": "新人第一天要开哪些系统账号谢谢",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0106",
+    "query": "IT onboarding文档标题",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0107",
+    "query": "冷启动阶段热门榜怎么选",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0108",
+    "query": "微服务参数统一在哪维护（场景38）谢谢",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0109",
+    "query": "请教一下掩码处理手机号保留几位（场景28）有相关文档吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0110",
+    "query": "帮我找文档数据合规对日志字段的要求有相关文档吗",
+    "relevant_doc_id": "doc_012",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0111",
+    "query": "有没有说明feed流里预估用户会不会点广告（场景23）谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0112",
+    "query": "内容特征召回用在什么场景",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0113",
+    "query": "麻烦查下SKU风控网关和ML模型怎么配合（场景33）可以吗",
+    "relevant_doc_id": "doc_003",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0114",
+    "query": "请教一下Apollo怎么做灰度放量谢谢",
+    "relevant_doc_id": "doc_005",
+    "category": "entity",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0115",
+    "query": "想确认设备指纹在风控里起什么作用（场景27）有相关文档吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0116",
+    "query": "麻烦查下用户信息在日志里必须隐藏吗（场景31）有相关文档吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0117",
+    "query": "想确认点击率训练样本取哪些维度（场景32）有相关文档吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0118",
+    "query": "请教一下日志输出手机号有什么限制（场景27）",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0119",
+    "query": "QPS预估依据哪些历史指标",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0120",
+    "query": "麻烦查下冷启动阶段热门榜怎么选（场景32）有相关文档吗",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0121",
+    "query": "A7821部署在哪个环节可以吗",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0122",
+    "query": "请教一下跨服务事件总线命名约定（场景35）",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0123",
+    "query": "麻烦查下Kafka的Topic名字怎么起（场景29）可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0124",
+    "query": "LDAP和VPN是不是一起申请",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0125",
+    "query": "故障RTO十五分钟怎么理解",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0126",
+    "query": "麻烦查下一百积分相当于多少钱（场景26）有相关文档吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0127",
+    "query": "想确认测试环境和生产配置怎么隔离谢谢",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0128",
+    "query": "请教一下公对公转账制度文档",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0129",
+    "query": "麻烦查下线上开关改完怎么验证可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0130",
+    "query": "微服务参数统一在哪维护",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0131",
+    "query": "有没有说明全文检索延迟高常见原因（场景29）",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0132",
+    "query": "帮我找文档线上开关改完怎么验证",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0133",
+    "query": "想确认列表曝光后点击概率谁负责算（场景24）谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0134",
+    "query": "麻烦查下创建订单到出库的全流程系统有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0135",
+    "query": "想确认大促之前容量怎么估",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0136",
+    "query": "有没有说明ElasticSearch运维手册在哪",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0137",
+    "query": "Kafka规范文档在哪（场景30）可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0138",
+    "query": "买家问快递到哪了应该查哪个系统（场景28）",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0139",
+    "query": "线上开关改完怎么验证（场景36）？",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0140",
+    "query": "麻烦查下原路返回大概几个工作日谢谢",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0141",
+    "query": "帮我找文档图谱关联怎么帮助抓黑产（场景37）？",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0142",
+    "query": "想确认盗卡交易通常有哪些特征（场景30）",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0143",
+    "query": "99.95%可用性是哪个文档说的可以吗",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0144",
+    "query": "想确认大促之前容量怎么估（场景22）谢谢",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0145",
+    "query": "新员工设备接入规范（场景29）可以吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0146",
+    "query": "帮我找文档财务侧风控和发票管理（场景32）有相关文档吗",
+    "relevant_doc_id": "doc_008",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0147",
+    "query": "有没有说明SLA文档对延迟的要求（场景25）有相关文档吗",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0148",
+    "query": "会员权益里积分怎么描述（场景33）有相关文档吗",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0149",
+    "query": "请教一下慢查询日志去哪看（场景37）？",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0150",
+    "query": "有没有说明办公电脑安全基线要求（场景21）可以吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0151",
+    "query": "麻烦查下新客首页推荐逻辑是什么谢谢",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0152",
+    "query": "入职后多久能登录内网系统（场景37）谢谢",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0153",
+    "query": "盗卡交易通常有哪些特征（场景25）有相关文档吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0154",
+    "query": "交易链路稳定性考核标准",
+    "relevant_doc_id": "doc_001",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0155",
+    "query": "有没有说明时段特征对点击率影响大吗（场景35）可以吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0156",
+    "query": "行为序列异常能说明什么问题",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0157",
+    "query": "麻烦查下服务等级协议里写了几条硬性指标（场景37）有相关文档吗",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0158",
+    "query": "全文检索延迟高常见原因",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0159",
+    "query": "麻烦查下事件命名里版本号放哪（场景26）可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0160",
+    "query": "盗卡交易通常有哪些特征",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0161",
+    "query": "会员权益里积分怎么描述（场景30）谢谢",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0162",
+    "query": "想确认大促保障扩容checklist（场景31）？",
+    "relevant_doc_id": "doc_015",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0163",
+    "query": "请教一下顾客取消订单后钱怎么返可以吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0164",
+    "query": "帮我找文档大促保障扩容checklist（场景36）",
+    "relevant_doc_id": "doc_015",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0165",
+    "query": "请教一下办公电脑安全基线要求谢谢",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0166",
+    "query": "想确认交易链路稳定性考核标准有相关文档吗",
+    "relevant_doc_id": "doc_001",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0167",
+    "query": "想确认财务侧风控和发票管理（场景23）谢谢",
+    "relevant_doc_id": "doc_008",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0168",
+    "query": "请教一下审计留痕对财务有啥要求有相关文档吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0169",
+    "query": "零行为用户推荐兜底策略谢谢",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0170",
+    "query": "麻烦查下供应商对公转账是否同一流程？",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0171",
+    "query": "有没有说明多渠道订单是不是都进OMS（场景34）",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0172",
+    "query": "帮我找文档索引重建会不会影响查询（场景23）有相关文档吗",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0173",
+    "query": "麻烦查下点击率训练样本取哪些维度（场景22）有相关文档吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0174",
+    "query": "有没有说明配置中心是否支持多环境（场景24）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0175",
+    "query": "测试环境和生产配置怎么隔离（场景30）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0176",
+    "query": "有没有说明银行卡号能不能写进debug日志（场景29）？",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0177",
+    "query": "想确认订单履约状态在哪个平台看（场景35）有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0178",
+    "query": "想确认身份证号在报表里怎么显示（场景35）可以吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0179",
+    "query": "有没有说明风控里说的关联网络是啥（场景26）？",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0180",
+    "query": "帮我找文档忠诚度积分兑换政策（场景22）",
+    "relevant_doc_id": "doc_009",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0181",
+    "query": "请教一下对公付款需要哪些审批材料（场景29）？",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0182",
+    "query": "请教一下电商退货资金回流规则谢谢",
+    "relevant_doc_id": "doc_002",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0183",
+    "query": "想确认发布配置前要走什么流程（场景25）？",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0184",
+    "query": "协同过滤在没历史时还用吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0185",
+    "query": "有没有说明Wide&Deep模型在我们这用在哪（场景39）谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0186",
+    "query": "帮我找文档压测报告要提前多久出有相关文档吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0187",
+    "query": "请教一下退货签收之后财务怎么处理（场景22）有相关文档吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0188",
+    "query": "有没有说明点击率训练样本取哪些维度谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0189",
+    "query": "取消交易后的退款路径（场景26）可以吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0190",
+    "query": "请教一下协同过滤在没历史时还用吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0191",
+    "query": "终端安全软件必须装吗",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0192",
+    "query": "积分抵扣有没有上限",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0193",
+    "query": "帮我找文档履约路由规则文档（场景27）有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0194",
+    "query": "麻烦查下积分过期了还能用吗（场景35）谢谢",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0195",
+    "query": "设备指纹在风控里起什么作用",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0196",
+    "query": "帮我找文档Apollo怎么做灰度放量可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "entity",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0197",
+    "query": "可用性和恢复时间怎么平衡",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0198",
+    "query": "消费多少积一分",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0199",
+    "query": "有没有说明三千多万日请求是哪款产品（场景30）谢谢",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0200",
+    "query": "有没有说明异常单比如地址错了谁处理有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0201",
+    "query": "帮我找文档转化率假设在容量评估里怎么用谢谢",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0202",
+    "query": "网关层的风控能力有哪些",
+    "relevant_doc_id": "doc_003",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0203",
+    "query": "请教一下Kafka规范文档在哪可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0204",
+    "query": "新人第一天要开哪些系统账号（场景26）",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0205",
+    "query": "麻烦查下发票合规和财务制度在哪看（场景24）谢谢",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0206",
+    "query": "配置变更能不能绕过审批直接上生产（场景40）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0207",
+    "query": "新员工设备接入规范",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0208",
+    "query": "检索集群限流策略",
+    "relevant_doc_id": "doc_011",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0209",
+    "query": "麻烦查下压测报告要提前多久出可以吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0210",
+    "query": "麻烦查下月度结账要注意什么合规项（场景38）可以吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0211",
+    "query": "想确认禁止直改生产是出于什么考虑（场景27）有相关文档吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0212",
+    "query": "帮我找文档电商退货资金回流规则（场景27）有相关文档吗",
+    "relevant_doc_id": "doc_002",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0213",
+    "query": "MQ消息格式有统一规范吗（场景23）",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0214",
+    "query": "帮我找文档日志输出手机号有什么限制（场景36）有相关文档吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0215",
+    "query": "请教一下LDAP和VPN是不是一起申请（场景30）？",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0216",
+    "query": "促销前14天要做什么准备（场景30）？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0217",
+    "query": "想确认一百积分相当于多少钱？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0218",
+    "query": "有没有说明消息消费重复了怎么处理（场景25）可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0219",
+    "query": "刷单团伙一般怎么被识别出来",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0220",
+    "query": "想确认终端安全软件必须装吗（场景23）",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0221",
+    "query": "帮我找文档分片数量规划和性能关系有相关文档吗",
+    "relevant_doc_id": "doc_011",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0222",
+    "query": "帮我找文档测试环境和生产配置怎么隔离（场景32）有相关文档吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0223",
+    "query": "想确认买家问快递到哪了应该查哪个系统？",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0224",
+    "query": "帮我找文档供应商对公转账是否同一流程谢谢",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0225",
+    "query": "Wiki权限找谁开",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0226",
+    "query": "刷单团伙一般怎么被识别出来（场景28）有相关文档吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0227",
+    "query": "消息消费重复了怎么处理",
+    "relevant_doc_id": "doc_013",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0228",
+    "query": "想确认时段特征对点击率影响大吗（场景21）可以吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0229",
+    "query": "帮我找文档搜索服务响应慢从哪排查（场景25）",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0230",
+    "query": "帮我找文档禁止直改生产是出于什么考虑（场景28）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0231",
+    "query": "退货签收之后财务怎么处理",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0232",
+    "query": "帮我找文档协同过滤在没历史时还用吗？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0233",
+    "query": "有没有说明库存深度和流量峰值关系（场景23）",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0234",
+    "query": "请教一下订单履约状态在哪个平台看谢谢",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0235",
+    "query": "有没有说明跨服务事件总线命名约定（场景28）？",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0236",
+    "query": "帮我找文档拆成两个包裹发货在哪配置（场景21）？",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0237",
+    "query": "麻烦查下消费多少积一分谢谢",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0238",
+    "query": "转化率假设在容量评估里怎么用",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0239",
+    "query": "请教一下双11容量规划文档（场景28）",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0240",
+    "query": "麻烦查下对公付款需要哪些审批材料（场景33）可以吗",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0241",
+    "query": "售后单走完了多久能到账",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0242",
+    "query": "有没有说明分片数量规划和性能关系（场景28）可以吗",
+    "relevant_doc_id": "doc_011",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0243",
+    "query": "原路返回大概几个工作日",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0244",
+    "query": "OMS负责哪些履约环节可以吗",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0245",
+    "query": "麻烦查下积分和优惠券能一起用吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0246",
+    "query": "Kafka的Topic名字怎么起（场景36）",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0247",
+    "query": "想确认全文检索延迟高常见原因（场景35）谢谢",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0248",
+    "query": "请教一下检索集群限流策略有相关文档吗",
+    "relevant_doc_id": "doc_011",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0249",
+    "query": "请教一下弹性扩容方案谁评审谢谢",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0250",
+    "query": "想确认列表曝光后点击概率谁负责算谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0251",
+    "query": "帮我找文档隐私数据写入日志的禁令（场景32）？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0252",
+    "query": "会员分能抵扣现金吗规则在哪（场景23）？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0253",
+    "query": "想确认时段特征对点击率影响大吗（场景36）谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0254",
+    "query": "有没有说明A7821这台设备负责什么业务？",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0255",
+    "query": "帮我找文档三千多万日请求是哪款产品（场景29）谢谢",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0256",
+    "query": "请教一下运维那边说的SLA红线是啥有相关文档吗",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0257",
+    "query": "帮我找文档线上开关改完怎么验证有相关文档吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0258",
+    "query": "帮我找文档99.95%可用性是哪个文档说的（场景28）有相关文档吗",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0259",
+    "query": "ElasticSearch运维手册在哪谢谢",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0260",
+    "query": "银行卡号能不能写进debug日志（场景22）可以吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0261",
+    "query": "麻烦查下双11容量规划文档（场景21）",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0262",
+    "query": "对公账户付款谁能批？",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0263",
+    "query": "促销前14天要做什么准备",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0264",
+    "query": "请教一下零行为用户推荐兜底策略（场景26）",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0265",
+    "query": "帮我找文档风控里说的关联网络是啥可以吗",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0266",
+    "query": "ElasticSearch运维手册在哪（场景39）可以吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0267",
+    "query": "帮我找文档7821型号和风控决策啥关系（场景31）",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0268",
+    "query": "想确认售后单走完了多久能到账（场景36）可以吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0269",
+    "query": "想确认仓库验货完成才退款吗（场景28）谢谢",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0270",
+    "query": "帮我找文档退货签收之后财务怎么处理（场景37）有相关文档吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0271",
+    "query": "有没有说明新上架商品没有销量怎么办（场景24）可以吗",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0272",
+    "query": "刷单团伙一般怎么被识别出来谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0273",
+    "query": "搜索服务响应慢从哪排查",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0274",
+    "query": "脱敏规范适用于哪些系统",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0275",
+    "query": "有没有说明供应商对公转账是否同一流程（场景30）？",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0276",
+    "query": "请教一下日志输出手机号有什么限制",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0277",
+    "query": "有没有说明新员工设备接入规范有相关文档吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0278",
+    "query": "请教一下索引重建会不会影响查询（场景36）可以吗",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0279",
+    "query": "有没有说明99.95%可用性是哪个文档说的",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0280",
+    "query": "异常单比如地址错了谁处理有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0281",
+    "query": "有没有说明禁止直改生产是出于什么考虑",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0282",
+    "query": "想确认行为序列异常能说明什么问题？",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0283",
+    "query": "帮我找文档数据合规对日志字段的要求可以吗",
+    "relevant_doc_id": "doc_012",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0284",
+    "query": "请教一下取消交易后的退款路径（场景29）可以吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0285",
+    "query": "刷单团伙一般怎么被识别出来（场景31）谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0286",
+    "query": "有没有说明大促之前容量怎么估有相关文档吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0287",
+    "query": "积分和优惠券能一起用吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0288",
+    "query": "线上开关改完怎么验证",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0289",
+    "query": "请教一下售后单走完了多久能到账？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0290",
+    "query": "请教一下库存深度和流量峰值关系？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0291",
+    "query": "有没有说明协同过滤在没历史时还用吗（场景21）可以吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0292",
+    "query": "数据合规对日志字段的要求",
+    "relevant_doc_id": "doc_012",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0293",
+    "query": "三千多万日请求是哪款产品可以吗",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0294",
+    "query": "推荐系统对新用户的默认策略？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0295",
+    "query": "异常单比如地址错了谁处理",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0296",
+    "query": "想确认网关层的风控能力有哪些",
+    "relevant_doc_id": "doc_003",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0297",
+    "query": "99.95%可用性是哪个文档说的",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0298",
+    "query": "想确认冷启动阶段热门榜怎么选可以吗",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0299",
+    "query": "想确认A7821这台设备负责什么业务（场景27）",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0300",
+    "query": "麻烦查下实时风控那台网关的说明？",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0301",
+    "query": "想确认跨服务事件总线命名约定（场景31）",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0302",
+    "query": "有没有说明新人第一天要开哪些系统账号（场景27）",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0303",
+    "query": "请教一下慢查询日志去哪看（场景31）谢谢",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0304",
+    "query": "退款审核通过后谁打款",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0305",
+    "query": "请教一下新上架商品没有销量怎么办（场景31）有相关文档吗",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0306",
+    "query": "用户信息在日志里必须隐藏吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0307",
+    "query": "想确认设备指纹在风控里起什么作用",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0308",
+    "query": "帮我找文档图谱关联怎么帮助抓黑产（场景32）有相关文档吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0309",
+    "query": "配置变更能不能绕过审批直接上生产（场景37）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0310",
+    "query": "麻烦查下敏感字段脱敏规则汇总（场景37）",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0311",
+    "query": "请教一下线上服务挂了恢复时限有啥规定",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0312",
+    "query": "麻烦查下积分抵扣有没有上限谢谢",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0313",
+    "query": "麻烦查下Wiki权限找谁开（场景32）可以吗",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0314",
+    "query": "请教一下消费组幂等是什么意思可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0315",
+    "query": "消息队列消费失败重试策略（场景27）？",
+    "relevant_doc_id": "doc_013",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0316",
+    "query": "请教一下核心系统中断后多久必须恢复业务（场景23）谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0317",
+    "query": "有没有说明IT onboarding文档标题？",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0318",
+    "query": "帮我找文档忠诚度积分兑换政策谢谢",
+    "relevant_doc_id": "doc_009",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0319",
+    "query": "冷启动和内容推荐怎么结合",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0320",
+    "query": "点击模型和转化模型是一回事吗谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0321",
+    "query": "请教一下履约路由规则文档（场景29）可以吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0322",
+    "query": "没人买过的SKU如何获得曝光谢谢",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0323",
+    "query": "设备指纹在风控里起什么作用（场景23）可以吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0324",
+    "query": "想确认虚假账号批量注册怎么防谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0325",
+    "query": "配置变更能不能绕过审批直接上生产",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0326",
+    "query": "A7821这台设备负责什么业务（场景23）",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0327",
+    "query": "想确认原路返回大概几个工作日（场景33）谢谢",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0328",
+    "query": "用户拒收商品怎么退钱",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0329",
+    "query": "帮我找文档公司转账合规审查点有哪些谢谢",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0330",
+    "query": "退款是不是一定要走售后流程",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0331",
+    "query": "麻烦查下对公付款需要哪些审批材料",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0332",
+    "query": "麻烦查下隐私数据写入日志的禁令（场景23）谢谢",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0333",
+    "query": "想确认身份证号在报表里怎么显示（场景25）",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0334",
+    "query": "有没有说明数据合规对日志字段的要求（场景38）谢谢",
+    "relevant_doc_id": "doc_012",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0335",
+    "query": "请教一下核心系统中断后多久必须恢复业务（场景31）谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0336",
+    "query": "MQ消息格式有统一规范吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0337",
+    "query": "麻烦查下冷启动阶段热门榜怎么选可以吗",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0338",
+    "query": "羊毛党薅羊毛怎么拦",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0339",
+    "query": "想确认可用性和恢复时间怎么平衡（场景38）有相关文档吗",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0340",
+    "query": "有没有说明服务等级协议里写了几条硬性指标（场景22）有相关文档吗",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0341",
+    "query": "帮我找文档Apollo和手工改配置文件区别（场景35）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "entity",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0342",
+    "query": "配置中心是否支持多环境（场景34）有相关文档吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0343",
+    "query": "请教一下掩码处理手机号保留几位谢谢",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0344",
+    "query": "帮我找文档Apollo怎么做灰度放量（场景22）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "entity",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0345",
+    "query": "有没有说明企业客户打款流程规范（场景21）有相关文档吗",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0346",
+    "query": "想确认原路返回大概几个工作日（场景34）？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0347",
+    "query": "帮我找文档反欺诈平台覆盖哪些场景可以吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0348",
+    "query": "有没有说明行为序列异常能说明什么问题（场景36）谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0349",
+    "query": "异常注册和盗刷是不是同一套系统管",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0350",
+    "query": "注册当天没有任何点击怎么推",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0351",
+    "query": "订单路由到哪个仓谁决定",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0352",
+    "query": "有没有说明新上架商品没有销量怎么办（场景34）有相关文档吗",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0353",
+    "query": "麻烦查下一百积分相当于多少钱（场景31）",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0354",
+    "query": "麻烦查下点击概率排序靠哪个模型",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0355",
+    "query": "请教一下会员权益里积分怎么描述？",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0356",
+    "query": "麻烦查下风控里说的关联网络是啥谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0357",
+    "query": "请教一下退款审核通过后谁打款（场景35）有相关文档吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0358",
+    "query": "想确认实时风控那台网关的说明（场景22）",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0359",
+    "query": "麻烦查下SLA文档对延迟的要求有相关文档吗",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0360",
+    "query": "请教一下运维那边说的SLA红线是啥（场景26）",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0361",
+    "query": "帮我找文档压测报告要提前多久出",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0362",
+    "query": "SLA文档对延迟的要求（场景36）",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0363",
+    "query": "CTR模型里渠道特征怎么建",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0364",
+    "query": "推荐系统对新用户的默认策略",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0365",
+    "query": "请教一下新员工设备接入规范有相关文档吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0366",
+    "query": "有没有说明SKU风控网关和ML模型怎么配合（场景34）有相关文档吗",
+    "relevant_doc_id": "doc_003",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0367",
+    "query": "麻烦查下中间四位打星号是哪个规范（场景24）可以吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0368",
+    "query": "有没有说明新员工设备接入规范？",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0369",
+    "query": "麻烦查下用户拒收商品怎么退钱（场景25）",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0370",
+    "query": "请教一下履约路由规则文档（场景23）谢谢",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0371",
+    "query": "想确认幂等消费实现要注意啥（场景37）有相关文档吗",
+    "relevant_doc_id": "doc_013",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0372",
+    "query": "幂等消费实现要注意啥有相关文档吗",
+    "relevant_doc_id": "doc_013",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0373",
+    "query": "有没有说明搜索服务响应慢从哪排查（场景24）",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0374",
+    "query": "帮我找文档仓库验货完成才退款吗？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0375",
+    "query": "终端安全软件必须装吗谢谢",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0376",
+    "query": "想确认公对公转账制度文档（场景31）有相关文档吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0377",
+    "query": "有没有说明履约路由规则文档（场景31）有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0378",
+    "query": "想确认服务等级协议里写了几条硬性指标（场景21）谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0379",
+    "query": "想确认全文检索延迟高常见原因（场景27）",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0380",
+    "query": "有没有说明终端安全软件必须装吗（场景31）？",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0381",
+    "query": "麻烦查下Kafka规范文档在哪（场景33）可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0382",
+    "query": "SKU风控网关和ML模型怎么配合",
+    "relevant_doc_id": "doc_003",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0383",
+    "query": "积分过期了还能用吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0384",
+    "query": "公对公转账制度文档",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0385",
+    "query": "帮我找文档多渠道订单是不是都进OMS（场景32）谢谢",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0386",
+    "query": "7821型号和风控决策啥关系（场景36）",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0387",
+    "query": "有没有说明隐私数据写入日志的禁令谢谢",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0388",
+    "query": "请教一下CTR模型里渠道特征怎么建（场景27）有相关文档吗",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0389",
+    "query": "有没有说明用户信息在日志里必须隐藏吗有相关文档吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0390",
+    "query": "有没有说明消费组幂等是什么意思（场景24）有相关文档吗",
+    "relevant_doc_id": "doc_013",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0391",
+    "query": "买家问快递到哪了应该查哪个系统",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0392",
+    "query": "帮我找文档没人买过的SKU如何获得曝光（场景29）可以吗",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0393",
+    "query": "实时风控那台网关的说明（场景28）谢谢",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0394",
+    "query": "新客首页推荐逻辑是什么",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0395",
+    "query": "智能网关每天大概扛多少请求",
+    "relevant_doc_id": "doc_003",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0396",
+    "query": "帮我找文档履约路由规则文档（场景22）？",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0397",
+    "query": "麻烦查下双11容量规划文档（场景25）有相关文档吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0398",
+    "query": "盗卡交易通常有哪些特征（场景21）？",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0399",
+    "query": "反欺诈平台覆盖哪些场景（场景22）谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0400",
+    "query": "想确认退款审核通过后谁打款（场景23）有相关文档吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0401",
+    "query": "想确认SLA文档对延迟的要求（场景32）可以吗",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0402",
+    "query": "会员权益里积分怎么描述",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0403",
+    "query": "供应商对公转账是否同一流程",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0404",
+    "query": "消息消费重复了怎么处理谢谢",
+    "relevant_doc_id": "doc_013",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0405",
+    "query": "请教一下配置回滚操作步骤（场景31）",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0406",
+    "query": "麻烦查下顾客取消订单后钱怎么返（场景32）有相关文档吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0407",
+    "query": "想确认测试环境和生产配置怎么隔离（场景23）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0408",
+    "query": "核心系统中断后多久必须恢复业务",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0409",
+    "query": "帮我找文档列表曝光后点击概率谁负责算（场景34）",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0410",
+    "query": "帮我找文档积分过期了还能用吗谢谢",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0411",
+    "query": "帮我找文档ES索引冷热分层什么意思？",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0412",
+    "query": "帮我找文档促销期间积分规则变吗（场景36）可以吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0413",
+    "query": "公司转账合规审查点有哪些（场景36）",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0414",
+    "query": "请教一下一百积分相当于多少钱谢谢",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0415",
+    "query": "想确认取消交易后的退款路径（场景31）？",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0416",
+    "query": "有没有说明订单路由到哪个仓谁决定（场景33）？",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0417",
+    "query": "帮我找文档服务等级协议里写了几条硬性指标（场景35）谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0418",
+    "query": "麻烦查下新客首页推荐逻辑是什么（场景28）谢谢",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0419",
+    "query": "麻烦查下运维那边说的SLA红线是啥（场景27）谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0420",
+    "query": "麻烦查下零行为用户推荐兜底策略？",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0421",
+    "query": "请教一下全文检索延迟高常见原因（场景30）谢谢",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0422",
+    "query": "想确认履约路由规则文档（场景26）有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0423",
+    "query": "履约路由规则文档",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0424",
+    "query": "想确认事件命名里版本号放哪？",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0425",
+    "query": "帮我找文档检索集群限流策略（场景21）",
+    "relevant_doc_id": "doc_011",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0426",
+    "query": "消费组幂等是什么意思",
+    "relevant_doc_id": "doc_013",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0427",
+    "query": "IT onboarding文档标题（场景24）？",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0428",
+    "query": "请教一下慢查询日志去哪看（场景26）？",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0429",
+    "query": "对公付款需要哪些审批材料",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0430",
+    "query": "麻烦查下Wiki权限找谁开（场景35）？",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0431",
+    "query": "请教一下对公账户付款谁能批（场景37）",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0432",
+    "query": "有没有说明三千多万日请求是哪款产品谢谢",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0433",
+    "query": "点击率训练样本取哪些维度",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0434",
+    "query": "A7821部署在哪个环节",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0435",
+    "query": "请教一下配置回滚操作步骤（场景21）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0436",
+    "query": "掩码处理手机号保留几位可以吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0437",
+    "query": "核心系统中断后多久必须恢复业务谢谢",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0438",
+    "query": "请教一下终端安全软件必须装吗（场景22）",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0439",
+    "query": "有没有说明OMS负责哪些履约环节（场景25）",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0440",
+    "query": "请教一下SKU风控网关和ML模型怎么配合谢谢",
+    "relevant_doc_id": "doc_003",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0441",
+    "query": "有没有说明线上开关改完怎么验证（场景29）有相关文档吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0442",
+    "query": "隐私数据写入日志的禁令",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0443",
+    "query": "请教一下慢查询日志去哪看（场景32）？",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0444",
+    "query": "实时风控那台网关的说明",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0445",
+    "query": "请教一下搜索服务响应慢从哪排查（场景38）可以吗",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0446",
+    "query": "有没有说明用户信息在日志里必须隐藏吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0447",
+    "query": "一百积分相当于多少钱",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0448",
+    "query": "帮我找文档运维那边说的SLA红线是啥？",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0449",
+    "query": "有没有说明智能网关每天大概扛多少请求（场景26）有相关文档吗",
+    "relevant_doc_id": "doc_003",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0450",
+    "query": "跨服务事件总线命名约定",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0451",
+    "query": "帮我找文档履约路由规则文档有相关文档吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0452",
+    "query": "新人第一天要开哪些系统账号",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0453",
+    "query": "ElasticSearch运维手册在哪",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0454",
+    "query": "有没有说明服务等级协议里写了几条硬性指标可以吗",
+    "relevant_doc_id": "doc_001",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0455",
+    "query": "麻烦查下积分体系有效期怎么算（场景28）可以吗",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0456",
+    "query": "请教一下网关层的风控能力有哪些（场景24）",
+    "relevant_doc_id": "doc_003",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0457",
+    "query": "请教一下事件命名里版本号放哪可以吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0458",
+    "query": "有没有说明发票合规和财务制度在哪看（场景34）",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0459",
+    "query": "请教一下拦截可疑交易靠哪套网关？",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0460",
+    "query": "有没有说明事件命名里版本号放哪有相关文档吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0461",
+    "query": "大促保障扩容checklist（场景32）？",
+    "relevant_doc_id": "doc_015",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0462",
+    "query": "有没有说明列表曝光后点击概率谁负责算？",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0463",
+    "query": "麻烦查下日志输出手机号有什么限制（场景21）",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0464",
+    "query": "有没有说明库存深度和流量峰值关系（场景24）？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0465",
+    "query": "想确认盗卡交易通常有哪些特征谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0466",
+    "query": "帮我找文档刷单团伙一般怎么被识别出来（场景38）可以吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0467",
+    "query": "有没有说明冷启动和内容推荐怎么结合（场景25）谢谢",
+    "relevant_doc_id": "doc_006",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0468",
+    "query": "请教一下网关层的风控能力有哪些？",
+    "relevant_doc_id": "doc_003",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0469",
+    "query": "麻烦查下搜索集群熔断怎么配（场景33）谢谢",
+    "relevant_doc_id": "doc_011",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0470",
+    "query": "请教一下ElasticSearch运维手册在哪？",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0471",
+    "query": "麻烦查下搜索集群熔断怎么配（场景22）",
+    "relevant_doc_id": "doc_011",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0472",
+    "query": "麻烦查下大促之前容量怎么估谢谢",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0473",
+    "query": "帮我找文档新员工设备接入规范（场景28）可以吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0474",
+    "query": "帮我找文档CTR模型里渠道特征怎么建（场景37）谢谢",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0475",
+    "query": "电商退货资金回流规则（场景30）",
+    "relevant_doc_id": "doc_002",
+    "category": "domain_synonym",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0476",
+    "query": "Apollo和手工改配置文件区别",
+    "relevant_doc_id": "doc_005",
+    "category": "entity",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0477",
+    "query": "风控网关的规则引擎怎么用",
+    "relevant_doc_id": "doc_003",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0478",
+    "query": "想确认用户拒收商品怎么退钱",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0479",
+    "query": "敏感字段脱敏规则汇总",
+    "relevant_doc_id": "doc_012",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0480",
+    "query": "想确认积分体系有效期怎么算谢谢",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0481",
+    "query": "请教一下风控里说的关联网络是啥（场景33）",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0482",
+    "query": "麻烦查下风控网关的规则引擎怎么用（场景37）",
+    "relevant_doc_id": "doc_003",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0483",
+    "query": "公司转账合规审查点有哪些",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0484",
+    "query": "积分体系有效期怎么算（场景32）有相关文档吗",
+    "relevant_doc_id": "doc_009",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0485",
+    "query": "配置中心是否支持多环境（场景33）可以吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0486",
+    "query": "有没有说明跨服务事件总线命名约定（场景21）？",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0487",
+    "query": "帮我找文档入职IT checklist有哪些（场景33）可以吗",
+    "relevant_doc_id": "doc_014",
+    "category": "domain_jargon",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0488",
+    "query": "麻烦查下7821型号和风控决策啥关系",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0489",
+    "query": "想确认企业客户打款流程规范（场景35）谢谢",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0490",
+    "query": "有没有说明业务域和事件类型怎么拼Topic（场景34）谢谢",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0491",
+    "query": "业务域和事件类型怎么拼Topic",
+    "relevant_doc_id": "doc_013",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0492",
+    "query": "点击率训练样本取哪些维度？",
+    "relevant_doc_id": "doc_007",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0493",
+    "query": "帮我找文档审计留痕对财务有啥要求（场景25）谢谢",
+    "relevant_doc_id": "doc_008",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0494",
+    "query": "有没有说明新上架商品没有销量怎么办（场景35）有相关文档吗",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0495",
+    "query": "想确认取消交易后的退款路径有相关文档吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0496",
+    "query": "有没有说明配置中心是否支持多环境（场景39）",
+    "relevant_doc_id": "doc_005",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0497",
+    "query": "有没有说明MQ消息格式有统一规范吗（场景22）？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0498",
+    "query": "有没有说明图谱关联怎么帮助抓黑产谢谢",
+    "relevant_doc_id": "doc_004",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0499",
+    "query": "想确认库存深度和流量峰值关系（场景33）有相关文档吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  },
+  {
+    "id": "unseen_0500",
+    "query": "麻烦查下压测报告要提前多久出（场景34）可以吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal",
+    "split": "unseen_test"
+  }
+]

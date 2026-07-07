@@ -1,0 +1,30 @@
+{
+  "model_name": "Qwen/Qwen3-Embedding-0.6B",
+  "num_cases": 12,
+  "recall_at_1": 0.9166666666666666,
+  "recall_at_3": 0.9166666666666666,
+  "recall_at_5": 1.0,
+  "mrr": 0.9375,
+  "avg_relevant_score": 0.47896914432446164,
+  "avg_top1_score": 0.48606596142053604,
+  "failed_cases": [
+    {
+      "query": "列表里用户会不会点进去",
+      "relevant_doc_id": "doc_007",
+      "predicted_doc_id": "doc_d5",
+      "rank": 4,
+      "top1_score": 0.4498203992843628,
+      "relevant_score": 0.3646585941314697,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": true,
+      "category": "abbreviation",
+      "description": "口语描述点击行为，与CVR转化(doc_d6)易混淆",
+      "top3_docs": [
+        "doc_d5",
+        "doc_006",
+        "doc_014"
+      ]
+    }
+  ]
+}

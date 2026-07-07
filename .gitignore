@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 微调模型权重（体积大，需本地训练生成）
+models/
+results/generalization/model_*/
+
+# 环境与密钥
+.env
+.env.*
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 临时文件
+.tmp_pkgs/

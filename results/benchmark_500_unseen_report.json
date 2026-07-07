@@ -1,0 +1,210 @@
+{
+  "description": "500条全新未见测试集，与 train/benchmark_1k/test_cases 无 query 重叠",
+  "test_file": "data/benchmark_500_unseen.json",
+  "num_queries": 500,
+  "note": "真实泛化评测：模型均未在此500条上训练",
+  "results": [
+    {
+      "label": "BGE-small (基线)",
+      "retrieval": {
+        "num_queries": 500,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.764,
+          "recall@3": 0.898,
+          "recall@5": 0.938,
+          "recall@10": 0.97
+        },
+        "mrr": 0.8418109537521302,
+        "ndcg_at_10": 0.8716544365274682,
+        "failed_at_1": 118,
+        "success_rate_at_1": 0.764
+      },
+      "latency": {
+        "corpus_encode_ms": 109.25,
+        "query_encode_total_ms": 1242.67,
+        "query_encode_ms_per_query": 2.4853,
+        "query_encode_p50_ms": 2.4401,
+        "query_encode_p95_ms": 3.1407,
+        "search_total_ms": 74.27,
+        "search_ms_per_query": 0.1485,
+        "end_to_end_ms_per_query": 2.8524,
+        "throughput_qps": 402.36
+      },
+      "model": {
+        "name": "C:\\Users\\76520\\.cache\\huggingface\\hub\\models--BAAI--bge-small-zh-v1.5\\snapshots\\7999e1d3359715c523056ef9478215996d62a620",
+        "label": "BGE-small (基线)",
+        "parameters": 23953920,
+        "disk_size_mb": 91.94,
+        "embedding_dim": 512,
+        "device": "cpu"
+      }
+    },
+    {
+      "label": "BGE-small (25条领域微调)",
+      "retrieval": {
+        "num_queries": 500,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.82,
+          "recall@3": 0.948,
+          "recall@5": 0.966,
+          "recall@10": 0.988
+        },
+        "mrr": 0.8854486715898481,
+        "ndcg_at_10": 0.9102325101338384,
+        "failed_at_1": 90,
+        "success_rate_at_1": 0.82
+      },
+      "latency": {
+        "corpus_encode_ms": 589.89,
+        "query_encode_total_ms": 1347.27,
+        "query_encode_ms_per_query": 2.6945,
+        "query_encode_p50_ms": 2.5482,
+        "query_encode_p95_ms": 4.2386,
+        "search_total_ms": 73.76,
+        "search_ms_per_query": 0.1475,
+        "end_to_end_ms_per_query": 4.0218,
+        "throughput_qps": 371.12
+      },
+      "model": {
+        "name": "D:\\cq\\finetune\\models\\bge-small-zh-domain",
+        "label": "BGE-small (25条领域微调)",
+        "parameters": 23953920,
+        "disk_size_mb": 91.91,
+        "embedding_dim": 512,
+        "device": "cpu"
+      }
+    },
+    {
+      "label": "BGE-small (41条 Hard Neg)",
+      "retrieval": {
+        "num_queries": 500,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.83,
+          "recall@3": 0.95,
+          "recall@5": 0.966,
+          "recall@10": 0.992
+        },
+        "mrr": 0.8934047841047841,
+        "ndcg_at_10": 0.9172558276423721,
+        "failed_at_1": 85,
+        "success_rate_at_1": 0.83
+      },
+      "latency": {
+        "corpus_encode_ms": 581.13,
+        "query_encode_total_ms": 1297.81,
+        "query_encode_ms_per_query": 2.5956,
+        "query_encode_p50_ms": 2.368,
+        "query_encode_p95_ms": 3.6747,
+        "search_total_ms": 74.99,
+        "search_ms_per_query": 0.15,
+        "end_to_end_ms_per_query": 3.9079,
+        "throughput_qps": 385.26
+      },
+      "model": {
+        "name": "D:\\cq\\finetune\\models\\bge-small-zh-hard-neg",
+        "label": "BGE-small (41条 Hard Neg)",
+        "parameters": 23953920,
+        "disk_size_mb": 91.91,
+        "embedding_dim": 512,
+        "device": "cpu"
+      }
+    },
+    {
+      "label": "BGE-small (1000条微调)",
+      "retrieval": {
+        "num_queries": 500,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.846,
+          "recall@3": 0.936,
+          "recall@5": 0.958,
+          "recall@10": 0.988
+        },
+        "mrr": 0.8970021531959612,
+        "ndcg_at_10": 0.9185902657873405,
+        "failed_at_1": 77,
+        "success_rate_at_1": 0.846
+      },
+      "latency": {
+        "corpus_encode_ms": 104.09,
+        "query_encode_total_ms": 1301.9,
+        "query_encode_ms_per_query": 2.6038,
+        "query_encode_p50_ms": 2.3362,
+        "query_encode_p95_ms": 3.7199,
+        "search_total_ms": 78.35,
+        "search_ms_per_query": 0.1567,
+        "end_to_end_ms_per_query": 2.9687,
+        "throughput_qps": 384.05
+      },
+      "model": {
+        "name": "D:\\cq\\finetune\\models\\bge-small-zh-1k",
+        "label": "BGE-small (1000条微调)",
+        "parameters": 23953920,
+        "disk_size_mb": 91.82,
+        "embedding_dim": 512,
+        "device": "cpu"
+      }
+    },
+    {
+      "label": "Qwen3-Embedding-0.6B",
+      "retrieval": {
+        "num_queries": 500,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.886,
+          "recall@3": 0.982,
+          "recall@5": 1.0,
+          "recall@10": 1.0
+        },
+        "mrr": 0.9341666666666667,
+        "ndcg_at_10": 0.950917260795323,
+        "failed_at_1": 57,
+        "success_rate_at_1": 0.886
+      },
+      "latency": {
+        "corpus_encode_ms": 22574.17,
+        "query_encode_total_ms": 427997.72,
+        "query_encode_ms_per_query": 855.9954,
+        "query_encode_p50_ms": 851.6612,
+        "query_encode_p95_ms": 956.9969,
+        "search_total_ms": 84.27,
+        "search_ms_per_query": 0.1685,
+        "end_to_end_ms_per_query": 901.3123,
+        "throughput_qps": 1.17
+      },
+      "model": {
+        "name": "C:\\Users\\76520\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-Embedding-0.6B\\snapshots\\97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+        "label": "Qwen3-Embedding-0.6B",
+        "parameters": 595776512,
+        "disk_size_mb": 1151.55,
+        "embedding_dim": 1024,
+        "device": "cpu"
+      }
+    }
+  ],
+  "ranking_by_recall_at_1": [
+    [
+      "Qwen3-Embedding-0.6B",
+      0.886
+    ],
+    [
+      "BGE-small (1000条微调)",
+      0.846
+    ],
+    [
+      "BGE-small (41条 Hard Neg)",
+      0.83
+    ],
+    [
+      "BGE-small (25条领域微调)",
+      0.82
+    ],
+    [
+      "BGE-small (基线)",
+      0.764
+    ]
+  ]
+}

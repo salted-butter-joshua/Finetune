@@ -1,0 +1,48 @@
+{
+  "model_name": "models/bge-small-zh-domain",
+  "num_cases": 12,
+  "recall_at_1": 0.8333333333333334,
+  "recall_at_3": 1.0,
+  "recall_at_5": 1.0,
+  "mrr": 0.9166666666666666,
+  "avg_relevant_score": 0.5470631321271261,
+  "avg_top1_score": 0.5478508671124777,
+  "failed_cases": [
+    {
+      "query": "包裹发到哪了在哪查进度",
+      "relevant_doc_id": "doc_010",
+      "predicted_doc_id": "doc_d9",
+      "rank": 2,
+      "top1_score": 0.4937453269958496,
+      "relevant_score": 0.49286580085754395,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "category": "domain_jargon",
+      "description": "不说OMS/订单，与WMS仓储(doc_d9)易混淆",
+      "top3_docs": [
+        "doc_d9",
+        "doc_010",
+        "doc_d7"
+      ]
+    },
+    {
+      "query": "搜索越来越慢是不是索引有问题",
+      "relevant_doc_id": "doc_011",
+      "predicted_doc_id": "doc_d10",
+      "rank": 2,
+      "top1_score": 0.5484837293624878,
+      "relevant_score": 0.5399104356765747,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "category": "abbreviation",
+      "description": "不说Elasticsearch，与MySQL慢SQL(doc_d10)易混淆",
+      "top3_docs": [
+        "doc_d10",
+        "doc_011",
+        "doc_014"
+      ]
+    }
+  ]
+}

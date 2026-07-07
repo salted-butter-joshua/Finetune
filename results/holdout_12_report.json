@@ -1,0 +1,32 @@
+[
+  {
+    "label": "BGE-small (基线)",
+    "recall_at_1": 0.6666666666666666,
+    "mrr": 0.7286324786324786,
+    "failed": 4
+  },
+  {
+    "label": "BGE-small (25条领域微调)",
+    "recall_at_1": 0.8333333333333334,
+    "mrr": 0.9166666666666666,
+    "failed": 2
+  },
+  {
+    "label": "BGE-small (41条 Hard Neg)",
+    "recall_at_1": 1.0,
+    "mrr": 1.0,
+    "failed": 0
+  },
+  {
+    "label": "BGE-small (1000条微调)",
+    "recall_at_1": 1.0,
+    "mrr": 1.0,
+    "failed": 0
+  },
+  {
+    "label": "Qwen3-Embedding-0.6B",
+    "recall_at_1": 0.9166666666666666,
+    "mrr": 0.9375,
+    "failed": 1
+  }
+]

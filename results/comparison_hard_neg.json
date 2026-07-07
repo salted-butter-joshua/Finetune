@@ -1,0 +1,111 @@
+{
+  "baseline": {
+    "recall_at_1": 0.6666666666666666,
+    "recall_at_3": 0.75,
+    "mrr": 0.7286324786324786,
+    "failed_count": 4
+  },
+  "standard_finetune": {
+    "recall_at_1": 0.8333333333333334,
+    "recall_at_3": 1.0,
+    "mrr": 0.9166666666666666,
+    "failed_count": 2
+  },
+  "hard_neg_finetune": {
+    "recall_at_1": 1.0,
+    "recall_at_3": 1.0,
+    "mrr": 1.0,
+    "failed_count": 0
+  },
+  "standard_vs_baseline": {
+    "before": "baseline",
+    "after": "standard",
+    "recall_at_1_before": 0.6666666666666666,
+    "recall_at_1_after": 0.8333333333333334,
+    "mrr_before": 0.7286324786324786,
+    "mrr_after": 0.9166666666666666,
+    "delta_recall_at_1": 0.16666666666666674,
+    "delta_mrr": 0.18803418803418803,
+    "recovered": [
+      "列表里用户会不会点进去",
+      "怎么拦住刷单和黑产注册"
+    ],
+    "still_failed": [
+      "包裹发到哪了在哪查进度",
+      "搜索越来越慢是不是索引有问题"
+    ],
+    "new_failures": []
+  },
+  "hard_neg_vs_baseline": {
+    "before": "baseline",
+    "after": "hard_neg",
+    "recall_at_1_before": 0.6666666666666666,
+    "recall_at_1_after": 1.0,
+    "mrr_before": 0.7286324786324786,
+    "mrr_after": 1.0,
+    "delta_recall_at_1": 0.33333333333333337,
+    "delta_mrr": 0.2713675213675214,
+    "recovered": [
+      "列表里用户会不会点进去",
+      "包裹发到哪了在哪查进度",
+      "怎么拦住刷单和黑产注册",
+      "搜索越来越慢是不是索引有问题"
+    ],
+    "still_failed": [],
+    "new_failures": []
+  },
+  "hard_neg_vs_standard": {
+    "before": "standard",
+    "after": "hard_neg",
+    "recall_at_1_before": 0.8333333333333334,
+    "recall_at_1_after": 1.0,
+    "mrr_before": 0.9166666666666666,
+    "mrr_after": 1.0,
+    "delta_recall_at_1": 0.16666666666666663,
+    "delta_mrr": 0.08333333333333337,
+    "recovered": [
+      "包裹发到哪了在哪查进度",
+      "搜索越来越慢是不是索引有问题"
+    ],
+    "still_failed": [],
+    "new_failures": []
+  },
+  "per_case_hard_neg_vs_baseline": [
+    {
+      "query": "怎么拦住刷单和黑产注册",
+      "category": "domain_synonym",
+      "baseline_rank": 4,
+      "baseline_predicted": "doc_d3",
+      "current_rank": 1,
+      "current_predicted": "doc_004",
+      "recovered": true
+    },
+    {
+      "query": "列表里用户会不会点进去",
+      "category": "abbreviation",
+      "baseline_rank": 13,
+      "baseline_predicted": "doc_012",
+      "current_rank": 1,
+      "current_predicted": "doc_007",
+      "recovered": true
+    },
+    {
+      "query": "包裹发到哪了在哪查进度",
+      "category": "domain_jargon",
+      "baseline_rank": 12,
+      "baseline_predicted": "doc_002",
+      "current_rank": 1,
+      "current_predicted": "doc_010",
+      "recovered": true
+    },
+    {
+      "query": "搜索越来越慢是不是索引有问题",
+      "category": "abbreviation",
+      "baseline_rank": 3,
+      "baseline_predicted": "doc_d10",
+      "current_rank": 1,
+      "current_predicted": "doc_011",
+      "recovered": true
+    }
+  ]
+}

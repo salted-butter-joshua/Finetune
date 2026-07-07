@@ -1,0 +1,639 @@
+{
+  "split": {
+    "train": 800,
+    "test": 200,
+    "seed": 42
+  },
+  "results": [
+    {
+      "model_name": "基线 BGE-small",
+      "num_cases": 200,
+      "recall_at_1": 0.865,
+      "recall_at_3": 0.97,
+      "recall_at_5": 0.975,
+      "mrr": 0.916744227994228,
+      "avg_relevant_score": 0.6296045300364495,
+      "avg_top1_score": 0.6335913856327534,
+      "failed_cases": [
+        {
+          "query": "请问最多停机多久必须恢复吗",
+          "relevant_doc_id": "doc_001",
+          "predicted_doc_id": "doc_012",
+          "rank": 2,
+          "top1_score": 0.5033109188079834,
+          "relevant_score": 0.4871162474155426,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_012",
+            "doc_001",
+            "doc_d1"
+          ]
+        },
+        {
+          "query": "请问怎么拦住刷单和黑产注册（变体9）怎么弄",
+          "relevant_doc_id": "doc_004",
+          "predicted_doc_id": "doc_014",
+          "rank": 3,
+          "top1_score": 0.5027234554290771,
+          "relevant_score": 0.48717522621154785,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_014",
+            "doc_d3",
+            "doc_004"
+          ]
+        },
+        {
+          "query": "帮忙查一下列表页点击预估（变体59）有哪些要求",
+          "relevant_doc_id": "doc_007",
+          "predicted_doc_id": "doc_015",
+          "rank": 2,
+          "top1_score": 0.5683125853538513,
+          "relevant_score": 0.5494155287742615,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_015",
+            "doc_007",
+            "doc_008"
+          ]
+        },
+        {
+          "query": "商品类目时段渠道特征有哪些要求",
+          "relevant_doc_id": "doc_007",
+          "predicted_doc_id": "doc_006",
+          "rank": 3,
+          "top1_score": 0.5225472450256348,
+          "relevant_score": 0.4968494176864624,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_006",
+            "doc_d7",
+            "doc_007"
+          ]
+        },
+        {
+          "query": "帮忙查一下履约路由说明（变体5）",
+          "relevant_doc_id": "doc_010",
+          "predicted_doc_id": "doc_d3",
+          "rank": 7,
+          "top1_score": 0.49781379103660583,
+          "relevant_score": 0.46243196725845337,
+          "hit_at_1": false,
+          "hit_at_3": false,
+          "hit_at_5": false,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_d3",
+            "doc_008",
+            "doc_002"
+          ]
+        },
+        {
+          "query": "请问最多停机多久必须恢复",
+          "relevant_doc_id": "doc_001",
+          "predicted_doc_id": "doc_012",
+          "rank": 2,
+          "top1_score": 0.5130302906036377,
+          "relevant_score": 0.4950096011161804,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_012",
+            "doc_001",
+            "doc_d1"
+          ]
+        },
+        {
+          "query": "帮忙查一下搜索越来越慢是不是索引有问题吗",
+          "relevant_doc_id": "doc_011",
+          "predicted_doc_id": "doc_d10",
+          "rank": 3,
+          "top1_score": 0.577293872833252,
+          "relevant_score": 0.5109795331954956,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_d10",
+            "doc_014",
+            "doc_011"
+          ]
+        },
+        {
+          "query": "帮忙查一下查快递进度系统",
+          "relevant_doc_id": "doc_010",
+          "predicted_doc_id": "doc_d9",
+          "rank": 2,
+          "top1_score": 0.5312637686729431,
+          "relevant_score": 0.5121360421180725,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_d9",
+            "doc_010",
+            "doc_002"
+          ]
+        },
+        {
+          "query": "帮忙查一下7821产品规格（变体64）怎么弄",
+          "relevant_doc_id": "doc_003",
+          "predicted_doc_id": "doc_012",
+          "rank": 11,
+          "top1_score": 0.5178656578063965,
+          "relevant_score": 0.4404548108577728,
+          "hit_at_1": false,
+          "hit_at_3": false,
+          "hit_at_5": false,
+          "category": "product_code",
+          "description": "",
+          "top3_docs": [
+            "doc_012",
+            "doc_d2",
+            "doc_008"
+          ]
+        },
+        {
+          "query": "想了解搜索集群性能优化（变体36）",
+          "relevant_doc_id": "doc_011",
+          "predicted_doc_id": "doc_d6",
+          "rank": 2,
+          "top1_score": 0.5550501346588135,
+          "relevant_score": 0.5469959378242493,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_d6",
+            "doc_011",
+            "doc_015"
+          ]
+        },
+        {
+          "query": "怎么拦住刷单和黑产注册",
+          "relevant_doc_id": "doc_004",
+          "predicted_doc_id": "doc_d3",
+          "rank": 4,
+          "top1_score": 0.4760933518409729,
+          "relevant_score": 0.45878639817237854,
+          "hit_at_1": false,
+          "hit_at_3": false,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_d3",
+            "doc_014",
+            "doc_012"
+          ]
+        },
+        {
+          "query": "请问最多停机多久必须恢复有哪些要求",
+          "relevant_doc_id": "doc_001",
+          "predicted_doc_id": "doc_012",
+          "rank": 2,
+          "top1_score": 0.5432475209236145,
+          "relevant_score": 0.5218026041984558,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_012",
+            "doc_001",
+            "doc_d1"
+          ]
+        },
+        {
+          "query": "请问设备指纹风控？",
+          "relevant_doc_id": "doc_004",
+          "predicted_doc_id": "doc_003",
+          "rank": 2,
+          "top1_score": 0.5667145848274231,
+          "relevant_score": 0.5538114309310913,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_003",
+            "doc_004",
+            "doc_d3"
+          ]
+        },
+        {
+          "query": "帮忙查一下没人买过东西的新客推什么货怎么弄",
+          "relevant_doc_id": "doc_006",
+          "predicted_doc_id": "doc_002",
+          "rank": 2,
+          "top1_score": 0.552381694316864,
+          "relevant_score": 0.5298166275024414,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_002",
+            "doc_006",
+            "doc_d2"
+          ]
+        },
+        {
+          "query": "帮忙查一下羊毛党拦截方案有哪些要求",
+          "relevant_doc_id": "doc_004",
+          "predicted_doc_id": "doc_012",
+          "rank": 3,
+          "top1_score": 0.47393882274627686,
+          "relevant_score": 0.45761194825172424,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_012",
+            "doc_015",
+            "doc_004"
+          ]
+        },
+        {
+          "query": "搜索集群性能优化（变体50）有哪些要求",
+          "relevant_doc_id": "doc_011",
+          "predicted_doc_id": "doc_d6",
+          "rank": 3,
+          "top1_score": 0.5595803260803223,
+          "relevant_score": 0.5429372787475586,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_d6",
+            "doc_015",
+            "doc_011"
+          ]
+        },
+        {
+          "query": "想了解7821产品规格怎么弄",
+          "relevant_doc_id": "doc_003",
+          "predicted_doc_id": "doc_d2",
+          "rank": 2,
+          "top1_score": 0.4754585921764374,
+          "relevant_score": 0.4623810052871704,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "product_code",
+          "description": "",
+          "top3_docs": [
+            "doc_d2",
+            "doc_003",
+            "doc_008"
+          ]
+        },
+        {
+          "query": "想了解服务等级协议怎么规定的吗",
+          "relevant_doc_id": "doc_001",
+          "predicted_doc_id": "doc_d2",
+          "rank": 2,
+          "top1_score": 0.5913072824478149,
+          "relevant_score": 0.5872609615325928,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_d2",
+            "doc_001",
+            "doc_014"
+          ]
+        },
+        {
+          "query": "想了解设备指纹风控怎么弄",
+          "relevant_doc_id": "doc_004",
+          "predicted_doc_id": "doc_003",
+          "rank": 2,
+          "top1_score": 0.5722850561141968,
+          "relevant_score": 0.5351129174232483,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_003",
+            "doc_004",
+            "doc_d3"
+          ]
+        },
+        {
+          "query": "帮忙查一下羊毛党拦截方案吗",
+          "relevant_doc_id": "doc_004",
+          "predicted_doc_id": "doc_012",
+          "rank": 2,
+          "top1_score": 0.43465882539749146,
+          "relevant_score": 0.41927605867385864,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_012",
+            "doc_004",
+            "doc_003"
+          ]
+        },
+        {
+          "query": "订单创建和履约怎么弄",
+          "relevant_doc_id": "doc_010",
+          "predicted_doc_id": "doc_d7",
+          "rank": 2,
+          "top1_score": 0.5360320806503296,
+          "relevant_score": 0.5276480317115784,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_d7",
+            "doc_010",
+            "doc_d3"
+          ]
+        },
+        {
+          "query": "请问商品类目时段渠道特征吗",
+          "relevant_doc_id": "doc_007",
+          "predicted_doc_id": "doc_006",
+          "rank": 3,
+          "top1_score": 0.5194750428199768,
+          "relevant_score": 0.47629183530807495,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_006",
+            "doc_d3",
+            "doc_007"
+          ]
+        },
+        {
+          "query": "请问履约路由说明怎么弄",
+          "relevant_doc_id": "doc_010",
+          "predicted_doc_id": "doc_d3",
+          "rank": 9,
+          "top1_score": 0.5005550384521484,
+          "relevant_score": 0.42779040336608887,
+          "hit_at_1": false,
+          "hit_at_3": false,
+          "hit_at_5": false,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_d3",
+            "doc_008",
+            "doc_d7"
+          ]
+        },
+        {
+          "query": "请问履约路由说明（变体7）吗",
+          "relevant_doc_id": "doc_010",
+          "predicted_doc_id": "doc_d2",
+          "rank": 9,
+          "top1_score": 0.46574079990386963,
+          "relevant_score": 0.4025534391403198,
+          "hit_at_1": false,
+          "hit_at_3": false,
+          "hit_at_5": false,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_d2",
+            "doc_001",
+            "doc_008"
+          ]
+        },
+        {
+          "query": "帮忙查一下搜索越来越慢是不是索引有问题怎么弄",
+          "relevant_doc_id": "doc_011",
+          "predicted_doc_id": "doc_d10",
+          "rank": 2,
+          "top1_score": 0.5895707607269287,
+          "relevant_score": 0.5257229804992676,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_d10",
+            "doc_011",
+            "doc_014"
+          ]
+        },
+        {
+          "query": "有没有文档说明没人买过东西的新客推什么货吗",
+          "relevant_doc_id": "doc_006",
+          "predicted_doc_id": "doc_002",
+          "rank": 2,
+          "top1_score": 0.5308532118797302,
+          "relevant_score": 0.5161803960800171,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "colloquial",
+          "description": "",
+          "top3_docs": [
+            "doc_002",
+            "doc_006",
+            "doc_d2"
+          ]
+        },
+        {
+          "query": "有没有文档说明7821产品规格怎么弄",
+          "relevant_doc_id": "doc_003",
+          "predicted_doc_id": "doc_d2",
+          "rank": 7,
+          "top1_score": 0.4975624680519104,
+          "relevant_score": 0.4437474310398102,
+          "hit_at_1": false,
+          "hit_at_3": false,
+          "hit_at_5": false,
+          "category": "product_code",
+          "description": "",
+          "top3_docs": [
+            "doc_d2",
+            "doc_008",
+            "doc_012"
+          ]
+        }
+      ]
+    },
+    {
+      "model_name": "800条划分微调",
+      "num_cases": 200,
+      "recall_at_1": 0.985,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "mrr": 0.9925,
+      "avg_relevant_score": 0.5729029080271721,
+      "avg_top1_score": 0.5734348398447037,
+      "failed_cases": [
+        {
+          "query": "有没有文档说明Elasticsearch慢查询排查有哪些要求",
+          "relevant_doc_id": "doc_011",
+          "predicted_doc_id": "doc_d10",
+          "rank": 2,
+          "top1_score": 0.49954670667648315,
+          "relevant_score": 0.4479290843009949,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "abbreviation",
+          "description": "",
+          "top3_docs": [
+            "doc_d10",
+            "doc_011",
+            "doc_010"
+          ]
+        },
+        {
+          "query": "转化率库存深度评估怎么弄",
+          "relevant_doc_id": "doc_015",
+          "predicted_doc_id": "doc_d6",
+          "rank": 2,
+          "top1_score": 0.4741154909133911,
+          "relevant_score": 0.4634053111076355,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_d6",
+            "doc_015",
+            "doc_d10"
+          ]
+        },
+        {
+          "query": "Elasticsearch慢查询排查",
+          "relevant_doc_id": "doc_011",
+          "predicted_doc_id": "doc_d10",
+          "rank": 2,
+          "top1_score": 0.492020845413208,
+          "relevant_score": 0.44796228408813477,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "abbreviation",
+          "description": "",
+          "top3_docs": [
+            "doc_d10",
+            "doc_011",
+            "doc_d6"
+          ]
+        }
+      ]
+    },
+    {
+      "model_name": "1000条全量微调(有泄漏)",
+      "num_cases": 200,
+      "recall_at_1": 0.985,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "mrr": 0.9925,
+      "avg_relevant_score": 0.5843009957671166,
+      "avg_top1_score": 0.5847667801380158,
+      "failed_cases": [
+        {
+          "query": "有没有文档说明Elasticsearch慢查询排查有哪些要求",
+          "relevant_doc_id": "doc_011",
+          "predicted_doc_id": "doc_d10",
+          "rank": 2,
+          "top1_score": 0.5058075785636902,
+          "relevant_score": 0.45907062292099,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "abbreviation",
+          "description": "",
+          "top3_docs": [
+            "doc_d10",
+            "doc_011",
+            "doc_010"
+          ]
+        },
+        {
+          "query": "转化率库存深度评估怎么弄",
+          "relevant_doc_id": "doc_015",
+          "predicted_doc_id": "doc_d6",
+          "rank": 2,
+          "top1_score": 0.49737000465393066,
+          "relevant_score": 0.4835866093635559,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "formal",
+          "description": "",
+          "top3_docs": [
+            "doc_d6",
+            "doc_015",
+            "doc_d10"
+          ]
+        },
+        {
+          "query": "Elasticsearch慢查询排查",
+          "relevant_doc_id": "doc_011",
+          "predicted_doc_id": "doc_d10",
+          "rank": 2,
+          "top1_score": 0.4960113763809204,
+          "relevant_score": 0.4633748531341553,
+          "hit_at_1": false,
+          "hit_at_3": true,
+          "hit_at_5": true,
+          "category": "abbreviation",
+          "description": "",
+          "top3_docs": [
+            "doc_d10",
+            "doc_011",
+            "doc_d6"
+          ]
+        }
+      ]
+    }
+  ]
+}

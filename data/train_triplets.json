@@ -1,0 +1,214 @@
+[
+  {
+    "anchor": "核心接口挂了最多能修多久",
+    "positive": "SLA服务等级协议：核心交易接口可用性不低于99.95%，P99响应时间小于200ms，故障恢复时间RTO不超过15分钟。"
+  },
+  {
+    "anchor": "故障恢复时间 RTO SLA",
+    "positive": "SLA服务等级协议：核心交易接口可用性不低于99.95%，P99响应时间小于200ms，故障恢复时间RTO不超过15分钟。"
+  },
+  {
+    "anchor": "接口可用性 99.95%",
+    "positive": "SLA服务等级协议：核心交易接口可用性不低于99.95%，P99响应时间小于200ms，故障恢复时间RTO不超过15分钟。"
+  },
+  {
+    "anchor": "买家不想买了怎么把钱退回去",
+    "positive": "退货退款流程：用户提交售后申请后，客服审核通过，仓库签收商品，财务在3-5个工作日内原路退款。"
+  },
+  {
+    "anchor": "原路退款 售后申请",
+    "positive": "退货退款流程：用户提交售后申请后，客服审核通过，仓库签收商品，财务在3-5个工作日内原路退款。"
+  },
+  {
+    "anchor": "7821那台风控盒子是干嘛的",
+    "positive": "SKU-A7821 智能风控网关：实时拦截高风险交易，支持规则引擎与机器学习模型联合决策，日均处理3000万笔请求。"
+  },
+  {
+    "anchor": "SKU-A7821 智能风控网关",
+    "positive": "SKU-A7821 智能风控网关：实时拦截高风险交易，支持规则引擎与机器学习模型联合决策，日均处理3000万笔请求。"
+  },
+  {
+    "anchor": "怎么拦住刷单和黑产注册",
+    "positive": "交易反欺诈系统：基于设备指纹、行为序列和关联图谱识别盗刷、羊毛党、虚假注册等风险行为。"
+  },
+  {
+    "anchor": "反欺诈 羊毛党 虚假注册",
+    "positive": "交易反欺诈系统：基于设备指纹、行为序列和关联图谱识别盗刷、羊毛党、虚假注册等风险行为。"
+  },
+  {
+    "anchor": "线上配置能直接在后台改吗",
+    "positive": "Apollo配置中心：统一管理微服务配置，支持灰度发布、配置回滚与多环境隔离，禁止直接修改生产环境配置。"
+  },
+  {
+    "anchor": "Apollo 配置中心 禁止改生产",
+    "positive": "Apollo配置中心：统一管理微服务配置，支持灰度发布、配置回滚与多环境隔离，禁止直接修改生产环境配置。"
+  },
+  {
+    "anchor": "没人买过东西的新客推什么货",
+    "positive": "推荐系统冷启动策略：新用户采用热门商品兜底，新商品采用内容特征与相似商品协同过滤进行曝光。"
+  },
+  {
+    "anchor": "冷启动 新用户 热门兜底",
+    "positive": "推荐系统冷启动策略：新用户采用热门商品兜底，新商品采用内容特征与相似商品协同过滤进行曝光。"
+  },
+  {
+    "anchor": "列表里用户会不会点进去",
+    "positive": "CTR点击率预估模型：使用Wide&Deep结构，特征包含用户历史行为、商品类目、时段与渠道信息。"
+  },
+  {
+    "anchor": "CTR 点击率预估 Wide Deep",
+    "positive": "CTR点击率预估模型：使用Wide&Deep结构，特征包含用户历史行为、商品类目、时段与渠道信息。"
+  },
+  {
+    "anchor": "公司账户打款要准备啥材料",
+    "positive": "财务风控合规：发票开具规范、对公转账审批流程、月度关账与审计留痕要求。"
+  },
+  {
+    "anchor": "对公转账 发票 合规",
+    "positive": "财务风控合规：发票开具规范、对公转账审批流程、月度关账与审计留痕要求。"
+  },
+  {
+    "anchor": "攒的分能不能当现金用",
+    "positive": "会员积分规则：消费1元积1分，积分有效期12个月，100积分可抵扣1元，不可与部分促销叠加。"
+  },
+  {
+    "anchor": "积分抵扣 100分等于1元",
+    "positive": "会员积分规则：消费1元积1分，积分有效期12个月，100积分可抵扣1元，不可与部分促销叠加。"
+  },
+  {
+    "anchor": "包裹发到哪了在哪查进度",
+    "positive": "OMS订单管理系统：负责订单创建、拆单、履约路由、物流跟踪与异常订单处理。"
+  },
+  {
+    "anchor": "OMS 物流跟踪 拆单",
+    "positive": "OMS订单管理系统：负责订单创建、拆单、履约路由、物流跟踪与异常订单处理。"
+  },
+  {
+    "anchor": "搜索越来越慢是不是索引有问题",
+    "positive": "Elasticsearch检索集群运维：索引分片规划、冷热数据分层、慢查询分析与熔断限流配置。"
+  },
+  {
+    "anchor": "Elasticsearch 慢查询 分片",
+    "positive": "Elasticsearch检索集群运维：索引分片规划、冷热数据分层、慢查询分析与熔断限流配置。"
+  },
+  {
+    "anchor": "日志里别把用户手机号全打出来",
+    "positive": "数据脱敏规范：手机号中间四位掩码，身份证号保留前6后4，日志中禁止输出完整银行卡号。"
+  },
+  {
+    "anchor": "数据脱敏 手机号掩码",
+    "positive": "数据脱敏规范：手机号中间四位掩码，身份证号保留前6后4，日志中禁止输出完整银行卡号。"
+  },
+  {
+    "anchor": "怎么拦住刷单和黑产注册",
+    "positive": "交易反欺诈系统：基于设备指纹、行为序列和关联图谱识别盗刷、羊毛党、虚假注册等风险行为。",
+    "hard_negative": "支付渠道风控限额：单笔交易上限、日累计限额、跨境支付合规校验，与交易反欺诈系统联动。",
+    "hard_negative_id": "doc_d3",
+    "source": "baseline_failure"
+  },
+  {
+    "anchor": "怎么拦住刷单和黑产注册",
+    "positive": "交易反欺诈系统：基于设备指纹、行为序列和关联图谱识别盗刷、羊毛党、虚假注册等风险行为。",
+    "hard_negative": "新员工入职IT指引：开通LDAP账号、申请VPN、安装终端安全软件、访问Wiki与Jira权限申请流程。",
+    "hard_negative_id": "doc_014",
+    "source": "baseline_failure"
+  },
+  {
+    "anchor": "列表里用户会不会点进去",
+    "positive": "CTR点击率预估模型：使用Wide&Deep结构，特征包含用户历史行为、商品类目、时段与渠道信息。",
+    "hard_negative": "数据脱敏规范：手机号中间四位掩码，身份证号保留前6后4，日志中禁止输出完整银行卡号。",
+    "hard_negative_id": "doc_012",
+    "source": "baseline_failure"
+  },
+  {
+    "anchor": "列表里用户会不会点进去",
+    "positive": "CTR点击率预估模型：使用Wide&Deep结构，特征包含用户历史行为、商品类目、时段与渠道信息。",
+    "hard_negative": "售后客服话术规范：安抚用户情绪、记录问题类型、升级投诉工单，不涉及具体退款审批权限。",
+    "hard_negative_id": "doc_d2",
+    "source": "baseline_failure"
+  },
+  {
+    "anchor": "包裹发到哪了在哪查进度",
+    "positive": "OMS订单管理系统：负责订单创建、拆单、履约路由、物流跟踪与异常订单处理。",
+    "hard_negative": "WMS仓储管理系统：入库上架、拣货波次、打包复核与出库交接。",
+    "hard_negative_id": "doc_d9",
+    "source": "baseline_failure"
+  },
+  {
+    "anchor": "包裹发到哪了在哪查进度",
+    "positive": "OMS订单管理系统：负责订单创建、拆单、履约路由、物流跟踪与异常订单处理。",
+    "hard_negative": "退货退款流程：用户提交售后申请后，客服审核通过，仓库签收商品，财务在3-5个工作日内原路退款。",
+    "hard_negative_id": "doc_002",
+    "source": "baseline_failure"
+  },
+  {
+    "anchor": "搜索越来越慢是不是索引有问题",
+    "positive": "Elasticsearch检索集群运维：索引分片规划、冷热数据分层、慢查询分析与熔断限流配置。",
+    "hard_negative": "MySQL慢SQL治理：执行计划分析、索引优化、读写分离与分库分表方案。",
+    "hard_negative_id": "doc_d10",
+    "source": "baseline_failure"
+  },
+  {
+    "anchor": "搜索越来越慢是不是索引有问题",
+    "positive": "Elasticsearch检索集群运维：索引分片规划、冷热数据分层、慢查询分析与熔断限流配置。",
+    "hard_negative": "新员工入职IT指引：开通LDAP账号、申请VPN、安装终端安全软件、访问Wiki与Jira权限申请流程。",
+    "hard_negative_id": "doc_014",
+    "source": "baseline_failure"
+  },
+  {
+    "anchor": "反欺诈 羊毛党 虚假注册",
+    "positive": "交易反欺诈系统：基于设备指纹、行为序列和关联图谱识别盗刷、羊毛党、虚假注册等风险行为。",
+    "hard_negative": "支付渠道风控限额：单笔交易上限、日累计限额、跨境支付合规校验，与交易反欺诈系统联动。",
+    "hard_negative_id": "doc_d3",
+    "source": "train_pair_variant"
+  },
+  {
+    "anchor": "反欺诈 羊毛党 虚假注册",
+    "positive": "交易反欺诈系统：基于设备指纹、行为序列和关联图谱识别盗刷、羊毛党、虚假注册等风险行为。",
+    "hard_negative": "新员工入职IT指引：开通LDAP账号、申请VPN、安装终端安全软件、访问Wiki与Jira权限申请流程。",
+    "hard_negative_id": "doc_014",
+    "source": "train_pair_variant"
+  },
+  {
+    "anchor": "CTR 点击率预估 Wide Deep",
+    "positive": "CTR点击率预估模型：使用Wide&Deep结构，特征包含用户历史行为、商品类目、时段与渠道信息。",
+    "hard_negative": "数据脱敏规范：手机号中间四位掩码，身份证号保留前6后4，日志中禁止输出完整银行卡号。",
+    "hard_negative_id": "doc_012",
+    "source": "train_pair_variant"
+  },
+  {
+    "anchor": "CTR 点击率预估 Wide Deep",
+    "positive": "CTR点击率预估模型：使用Wide&Deep结构，特征包含用户历史行为、商品类目、时段与渠道信息。",
+    "hard_negative": "售后客服话术规范：安抚用户情绪、记录问题类型、升级投诉工单，不涉及具体退款审批权限。",
+    "hard_negative_id": "doc_d2",
+    "source": "train_pair_variant"
+  },
+  {
+    "anchor": "OMS 物流跟踪 拆单",
+    "positive": "OMS订单管理系统：负责订单创建、拆单、履约路由、物流跟踪与异常订单处理。",
+    "hard_negative": "WMS仓储管理系统：入库上架、拣货波次、打包复核与出库交接。",
+    "hard_negative_id": "doc_d9",
+    "source": "train_pair_variant"
+  },
+  {
+    "anchor": "OMS 物流跟踪 拆单",
+    "positive": "OMS订单管理系统：负责订单创建、拆单、履约路由、物流跟踪与异常订单处理。",
+    "hard_negative": "退货退款流程：用户提交售后申请后，客服审核通过，仓库签收商品，财务在3-5个工作日内原路退款。",
+    "hard_negative_id": "doc_002",
+    "source": "train_pair_variant"
+  },
+  {
+    "anchor": "Elasticsearch 慢查询 分片",
+    "positive": "Elasticsearch检索集群运维：索引分片规划、冷热数据分层、慢查询分析与熔断限流配置。",
+    "hard_negative": "MySQL慢SQL治理：执行计划分析、索引优化、读写分离与分库分表方案。",
+    "hard_negative_id": "doc_d10",
+    "source": "train_pair_variant"
+  },
+  {
+    "anchor": "Elasticsearch 慢查询 分片",
+    "positive": "Elasticsearch检索集群运维：索引分片规划、冷热数据分层、慢查询分析与熔断限流配置。",
+    "hard_negative": "新员工入职IT指引：开通LDAP账号、申请VPN、安装终端安全软件、访问Wiki与Jira权限申请流程。",
+    "hard_negative_id": "doc_014",
+    "source": "train_pair_variant"
+  }
+]

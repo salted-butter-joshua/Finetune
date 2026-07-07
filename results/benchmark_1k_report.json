@@ -1,0 +1,303 @@
+{
+  "benchmark_config": {
+    "num_queries": 1000,
+    "num_corpus": 25,
+    "batch_size": 32,
+    "device_note": "cpu",
+    "metrics": [
+      "recall@1/3/5/10",
+      "mrr",
+      "ndcg@10",
+      "latency",
+      "throughput",
+      "model_size"
+    ]
+  },
+  "results": [
+    {
+      "model": {
+        "name": "C:\\Users\\76520\\.cache\\huggingface\\hub\\models--BAAI--bge-small-zh-v1.5\\snapshots\\7999e1d3359715c523056ef9478215996d62a620",
+        "label": "BGE-small (基线)",
+        "parameters": 23953920,
+        "disk_size_mb": 91.94,
+        "embedding_dim": 512,
+        "device": "cpu"
+      },
+      "retrieval": {
+        "num_queries": 1000,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.88,
+          "recall@3": 0.955,
+          "recall@5": 0.968,
+          "recall@10": 0.986
+        },
+        "mrr": 0.9206616845572728,
+        "ndcg_at_10": 0.9359644985622388,
+        "failed_at_1": 120,
+        "success_rate_at_1": 0.88
+      },
+      "latency": {
+        "corpus_encode_ms": 117.55,
+        "query_encode_total_ms": 2607.58,
+        "query_encode_ms_per_query": 2.6076,
+        "query_encode_p50_ms": 2.3728,
+        "query_encode_p95_ms": 5.1514,
+        "search_total_ms": 149.3,
+        "search_ms_per_query": 0.1493,
+        "end_to_end_ms_per_query": 2.8744,
+        "throughput_qps": 383.5
+      },
+      "config": {
+        "batch_size": 32,
+        "warmup_queries": 10,
+        "normalize_embeddings": true,
+        "similarity": "cosine",
+        "query_encode_kwargs": {},
+        "doc_encode_kwargs": {}
+      }
+    },
+    {
+      "model": {
+        "name": "D:\\cq\\finetune\\models\\bge-small-zh-domain",
+        "label": "BGE-small (领域微调)",
+        "parameters": 23953920,
+        "disk_size_mb": 91.91,
+        "embedding_dim": 512,
+        "device": "cpu"
+      },
+      "retrieval": {
+        "num_queries": 1000,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.946,
+          "recall@3": 0.995,
+          "recall@5": 0.995,
+          "recall@10": 0.998
+        },
+        "mrr": 0.9703779761904763,
+        "ndcg_at_10": 0.9773968443079427,
+        "failed_at_1": 54,
+        "success_rate_at_1": 0.946
+      },
+      "latency": {
+        "corpus_encode_ms": 135.49,
+        "query_encode_total_ms": 2464.4,
+        "query_encode_ms_per_query": 2.4644,
+        "query_encode_p50_ms": 2.3868,
+        "query_encode_p95_ms": 3.3836,
+        "search_total_ms": 155.69,
+        "search_ms_per_query": 0.1557,
+        "end_to_end_ms_per_query": 2.7556,
+        "throughput_qps": 405.78
+      },
+      "config": {
+        "batch_size": 32,
+        "warmup_queries": 10,
+        "normalize_embeddings": true,
+        "similarity": "cosine",
+        "query_encode_kwargs": {},
+        "doc_encode_kwargs": {}
+      }
+    },
+    {
+      "model": {
+        "name": "D:\\cq\\finetune\\models\\bge-small-zh-hard-neg",
+        "label": "BGE-small (Hard Neg 微调)",
+        "parameters": 23953920,
+        "disk_size_mb": 91.91,
+        "embedding_dim": 512,
+        "device": "cpu"
+      },
+      "retrieval": {
+        "num_queries": 1000,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.949,
+          "recall@3": 0.994,
+          "recall@5": 0.995,
+          "recall@10": 0.998
+        },
+        "mrr": 0.9719636904761906,
+        "ndcg_at_10": 0.9785656613588731,
+        "failed_at_1": 51,
+        "success_rate_at_1": 0.949
+      },
+      "latency": {
+        "corpus_encode_ms": 144.91,
+        "query_encode_total_ms": 2460.45,
+        "query_encode_ms_per_query": 2.4605,
+        "query_encode_p50_ms": 2.296,
+        "query_encode_p95_ms": 3.3079,
+        "search_total_ms": 155.7,
+        "search_ms_per_query": 0.1557,
+        "end_to_end_ms_per_query": 2.7611,
+        "throughput_qps": 406.43
+      },
+      "config": {
+        "batch_size": 32,
+        "warmup_queries": 10,
+        "normalize_embeddings": true,
+        "similarity": "cosine",
+        "query_encode_kwargs": {},
+        "doc_encode_kwargs": {}
+      }
+    },
+    {
+      "model": {
+        "name": "D:\\cq\\finetune\\models\\bge-small-zh-1k",
+        "label": "BGE-small (1000条微调)",
+        "parameters": 23953920,
+        "disk_size_mb": 91.82,
+        "embedding_dim": 512,
+        "device": "cpu"
+      },
+      "retrieval": {
+        "num_queries": 1000,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.979,
+          "recall@3": 1.0,
+          "recall@5": 1.0,
+          "recall@10": 1.0
+        },
+        "mrr": 0.9895,
+        "ndcg_at_10": 0.9922495248250006,
+        "failed_at_1": 21,
+        "success_rate_at_1": 0.979
+      },
+      "latency": {
+        "corpus_encode_ms": 125.14,
+        "query_encode_total_ms": 2579.61,
+        "query_encode_ms_per_query": 2.5796,
+        "query_encode_p50_ms": 2.4214,
+        "query_encode_p95_ms": 3.4577,
+        "search_total_ms": 230.97,
+        "search_ms_per_query": 0.231,
+        "end_to_end_ms_per_query": 2.9357,
+        "throughput_qps": 387.66
+      },
+      "config": {
+        "batch_size": 32,
+        "warmup_queries": 10,
+        "normalize_embeddings": true,
+        "similarity": "cosine",
+        "query_encode_kwargs": {},
+        "doc_encode_kwargs": {}
+      }
+    },
+    {
+      "model": {
+        "name": "C:\\Users\\76520\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-Embedding-0.6B\\snapshots\\97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+        "label": "Qwen3-Embedding-0.6B",
+        "parameters": 595776512,
+        "disk_size_mb": 1151.55,
+        "embedding_dim": 1024,
+        "device": "cpu"
+      },
+      "retrieval": {
+        "num_queries": 1000,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.964,
+          "recall@3": 0.997,
+          "recall@5": 1.0,
+          "recall@10": 1.0
+        },
+        "mrr": 0.9803666666666667,
+        "ndcg_at_10": 0.9854142390233821,
+        "failed_at_1": 36,
+        "success_rate_at_1": 0.964
+      },
+      "latency": {
+        "corpus_encode_ms": 26545.11,
+        "query_encode_total_ms": 878124.95,
+        "query_encode_ms_per_query": 878.125,
+        "query_encode_p50_ms": 871.8082,
+        "query_encode_p95_ms": 1022.8665,
+        "search_total_ms": 167.3,
+        "search_ms_per_query": 0.1673,
+        "end_to_end_ms_per_query": 904.8374,
+        "throughput_qps": 1.14
+      },
+      "config": {
+        "batch_size": 32,
+        "warmup_queries": 10,
+        "normalize_embeddings": true,
+        "similarity": "cosine",
+        "query_encode_kwargs": {
+          "prompt_name": "query"
+        },
+        "doc_encode_kwargs": {}
+      }
+    }
+  ],
+  "ranking": {
+    "by_recall_at_1": [
+      [
+        "BGE-small (1000条微调)",
+        0.979
+      ],
+      [
+        "Qwen3-Embedding-0.6B",
+        0.964
+      ],
+      [
+        "BGE-small (Hard Neg 微调)",
+        0.949
+      ],
+      [
+        "BGE-small (领域微调)",
+        0.946
+      ],
+      [
+        "BGE-small (基线)",
+        0.88
+      ]
+    ],
+    "by_mrr": [
+      [
+        "BGE-small (1000条微调)",
+        0.9895
+      ],
+      [
+        "Qwen3-Embedding-0.6B",
+        0.9803666666666667
+      ],
+      [
+        "BGE-small (Hard Neg 微调)",
+        0.9719636904761906
+      ],
+      [
+        "BGE-small (领域微调)",
+        0.9703779761904763
+      ],
+      [
+        "BGE-small (基线)",
+        0.9206616845572728
+      ]
+    ],
+    "by_speed": [
+      [
+        "BGE-small (Hard Neg 微调)",
+        2.4605
+      ],
+      [
+        "BGE-small (领域微调)",
+        2.4644
+      ],
+      [
+        "BGE-small (1000条微调)",
+        2.5796
+      ],
+      [
+        "BGE-small (基线)",
+        2.6076
+      ],
+      [
+        "Qwen3-Embedding-0.6B",
+        878.125
+      ]
+    ]
+  }
+}

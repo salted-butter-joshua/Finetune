@@ -1,0 +1,202 @@
+{
+  "baseline_bge_small": {
+    "model": "BAAI/bge-small-zh-v1.5",
+    "recall_at_1": 0.6666666666666666,
+    "recall_at_3": 0.75,
+    "recall_at_5": 0.8333333333333334,
+    "mrr": 0.7286324786324786,
+    "avg_relevant_score": 0.5168934613466263,
+    "failed_count": 4,
+    "failed_queries": [
+      "怎么拦住刷单和黑产注册",
+      "列表里用户会不会点进去",
+      "包裹发到哪了在哪查进度",
+      "搜索越来越慢是不是索引有问题"
+    ]
+  },
+  "qwen3_embedding_0.6b": {
+    "model": "Qwen/Qwen3-Embedding-0.6B",
+    "recall_at_1": 0.9166666666666666,
+    "recall_at_3": 0.9166666666666666,
+    "recall_at_5": 1.0,
+    "mrr": 0.9375,
+    "avg_relevant_score": 0.47896914432446164,
+    "failed_count": 1,
+    "failed_queries": [
+      "列表里用户会不会点进去"
+    ]
+  },
+  "bge_hard_neg_finetuned": {
+    "model": "models/bge-small-zh-hard-neg",
+    "recall_at_1": 1.0,
+    "recall_at_3": 1.0,
+    "recall_at_5": 1.0,
+    "mrr": 1.0,
+    "avg_relevant_score": 0.5549596349398295,
+    "failed_count": 0,
+    "failed_queries": []
+  },
+  "head_to_head": {
+    "qwen3_only_wins": [],
+    "hard_neg_only_wins": [
+      "列表里用户会不会点进去"
+    ],
+    "both_fail": [],
+    "both_hit": 11
+  },
+  "delta_qwen3_minus_hard_neg": {
+    "recall_at_1": -0.08333333333333337,
+    "mrr": -0.0625
+  },
+  "per_case": [
+    {
+      "query": "核心接口挂了最多能修多久",
+      "category": "abbreviation",
+      "relevant_doc_id": "doc_001",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_001",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_001",
+      "winner": "both"
+    },
+    {
+      "query": "买家不想买了怎么把钱退回去",
+      "category": "colloquial",
+      "relevant_doc_id": "doc_002",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_002",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_002",
+      "winner": "both"
+    },
+    {
+      "query": "7821那台风控盒子是干嘛的",
+      "category": "product_code",
+      "relevant_doc_id": "doc_003",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_003",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_003",
+      "winner": "both"
+    },
+    {
+      "query": "怎么拦住刷单和黑产注册",
+      "category": "domain_synonym",
+      "relevant_doc_id": "doc_004",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_004",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_004",
+      "winner": "both"
+    },
+    {
+      "query": "线上配置能直接在后台改吗",
+      "category": "entity_disambiguation",
+      "relevant_doc_id": "doc_005",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_005",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_005",
+      "winner": "both"
+    },
+    {
+      "query": "没人买过东西的新客推什么货",
+      "category": "domain_jargon",
+      "relevant_doc_id": "doc_006",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_006",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_006",
+      "winner": "both"
+    },
+    {
+      "query": "列表里用户会不会点进去",
+      "category": "abbreviation",
+      "relevant_doc_id": "doc_007",
+      "qwen3_hit": false,
+      "qwen3_rank": 4,
+      "qwen3_predicted": "doc_d5",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_007",
+      "winner": "hard_neg"
+    },
+    {
+      "query": "公司账户打款要准备啥材料",
+      "category": "domain_synonym",
+      "relevant_doc_id": "doc_008",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_008",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_008",
+      "winner": "both"
+    },
+    {
+      "query": "攒的分能不能当现金用",
+      "category": "colloquial",
+      "relevant_doc_id": "doc_009",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_009",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_009",
+      "winner": "both"
+    },
+    {
+      "query": "包裹发到哪了在哪查进度",
+      "category": "domain_jargon",
+      "relevant_doc_id": "doc_010",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_010",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_010",
+      "winner": "both"
+    },
+    {
+      "query": "搜索越来越慢是不是索引有问题",
+      "category": "abbreviation",
+      "relevant_doc_id": "doc_011",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_011",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_011",
+      "winner": "both"
+    },
+    {
+      "query": "日志里别把用户手机号全打出来",
+      "category": "colloquial",
+      "relevant_doc_id": "doc_012",
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "qwen3_predicted": "doc_012",
+      "hard_neg_hit": true,
+      "hard_neg_rank": 1,
+      "hard_neg_predicted": "doc_012",
+      "winner": "both"
+    }
+  ],
+  "notes": {
+    "qwen3_query_encoding": "encode(..., prompt_name='query')",
+    "qwen3_doc_encoding": "encode(...) without prompt",
+    "hard_neg_model": "BAAI/bge-small-zh-v1.5 + domain finetune + hard neg finetune"
+  }
+}

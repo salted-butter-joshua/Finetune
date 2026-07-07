@@ -1,0 +1,74 @@
+[
+  {
+    "query": "核心接口挂了最多能修多久",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation",
+    "description": "口语化问RTO/故障恢复，文档用SLA/RTO正式术语，与监控告警文档(doc_d1)易混淆"
+  },
+  {
+    "query": "买家不想买了怎么把钱退回去",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial",
+    "description": "完全不出现'售后/原路退款'等关键词，与客服话术(doc_d2)易混淆"
+  },
+  {
+    "query": "7821那台风控盒子是干嘛的",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code",
+    "description": "仅保留产品编号片段，与支付渠道限额(doc_d3)易混淆"
+  },
+  {
+    "query": "怎么拦住刷单和黑产注册",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_synonym",
+    "description": "不说'反欺诈'，与支付限额风控(doc_d3)语义接近"
+  },
+  {
+    "query": "线上配置能直接在后台改吗",
+    "relevant_doc_id": "doc_005",
+    "category": "entity_disambiguation",
+    "description": "未提及Apollo，与K8s发布流程(doc_d4)易混淆"
+  },
+  {
+    "query": "没人买过东西的新客推什么货",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon",
+    "description": "不说'冷启动'，与用户画像标签(doc_d5)易混淆"
+  },
+  {
+    "query": "列表里用户会不会点进去",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation",
+    "description": "口语描述点击行为，与CVR转化(doc_d6)易混淆"
+  },
+  {
+    "query": "公司账户打款要准备啥材料",
+    "relevant_doc_id": "doc_008",
+    "category": "domain_synonym",
+    "description": "口语'打款'，与供应商对账(doc_d7)易混淆"
+  },
+  {
+    "query": "攒的分能不能当现金用",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial",
+    "description": "不说'积分/抵扣'，与优惠券(doc_d8)易混淆"
+  },
+  {
+    "query": "包裹发到哪了在哪查进度",
+    "relevant_doc_id": "doc_010",
+    "category": "domain_jargon",
+    "description": "不说OMS/订单，与WMS仓储(doc_d9)易混淆"
+  },
+  {
+    "query": "搜索越来越慢是不是索引有问题",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation",
+    "description": "不说Elasticsearch，与MySQL慢SQL(doc_d10)易混淆"
+  },
+  {
+    "query": "日志里别把用户手机号全打出来",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial",
+    "description": "口语'别全打出来'，与客服记录用户信息场景易混"
+  }
+]

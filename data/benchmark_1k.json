@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "bench_0001",
+    "query": "帮忙查一下冷启动热门兜底有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0002",
+    "query": "请问点击率预估用什么结构吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0003",
+    "query": "有没有文档说明异常订单处理流程有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0004",
+    "query": "帮忙查一下新客推荐方案",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0005",
+    "query": "帮忙查一下买家不想买了怎么把钱退回去吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0006",
+    "query": "想了解手机号掩码规则怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0007",
+    "query": "有没有文档说明交易反欺诈系统原理",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0008",
+    "query": "新员工怎么开账号吗",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0009",
+    "query": "请问售后申请怎么提吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0010",
+    "query": "想了解Elasticsearch运维有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0011",
+    "query": "请问售后申请怎么提有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0012",
+    "query": "想了解行为序列反欺诈怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0013",
+    "query": "想了解数据脱敏标准",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0014",
+    "query": "有没有文档说明新员工怎么开账号（变体13）",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0015",
+    "query": "帮忙查一下热门商品兜底推荐？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0016",
+    "query": "实时拦截高风险交易（变体51）怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0017",
+    "query": "请问新员工怎么开账号吗",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0018",
+    "query": "帮忙查一下内容特征推荐吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0019",
+    "query": "帮忙查一下7821产品规格（变体64）怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0020",
+    "query": "想了解双11容量准备（变体51）吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0021",
+    "query": "想了解能不能直接改生产配置？",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0022",
+    "query": "身份证号脱敏规则怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0023",
+    "query": "请问7821产品规格吗",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0024",
+    "query": "风控网关日均处理量",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0025",
+    "query": "想了解故障恢复时间RTO是多少怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0026",
+    "query": "手机号掩码规则",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0027",
+    "query": "有没有文档说明企业转账需要什么有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0028",
+    "query": "想了解风控网关日均处理量？",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0029",
+    "query": "想了解订单创建和履约有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0030",
+    "query": "帮忙查一下业务域事件类型版本命名（变体57）怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0031",
+    "query": "帮忙查一下数据脱敏规范怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0032",
+    "query": "敏感数据打码要求（变体3）吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0033",
+    "query": "想了解弹性扩容评审（变体6）怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0034",
+    "query": "有没有文档说明关联图谱风险识别有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0035",
+    "query": "有没有文档说明手机号中间四位掩码（变体62）有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0036",
+    "query": "有没有文档说明新员工怎么开账号（变体4）？",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0037",
+    "query": "MQ消费幂等？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0038",
+    "query": "想了解Apollo配置中心用法？",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0039",
+    "query": "有没有文档说明智能风控网关介绍（变体61）怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0040",
+    "query": "想了解7821产品规格吗",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0041",
+    "query": "帮忙查一下故障恢复时间RTO是多少？",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0042",
+    "query": "搜索越来越慢是不是索引有问题",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0043",
+    "query": "帮忙查一下商品类目时段渠道特征（变体47）怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0044",
+    "query": "ES集群运维规范吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0045",
+    "query": "虚假注册检测怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0046",
+    "query": "有没有文档说明7821产品规格（变体42）怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0047",
+    "query": "想了解退货退款流程是什么",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0048",
+    "query": "有没有文档说明促销容量规划",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0049",
+    "query": "请问日志禁止输出银行卡号（变体10）吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0050",
+    "query": "帮忙查一下原路退款要多久到账吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0051",
+    "query": "想了解热门商品兜底推荐有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0052",
+    "query": "有没有文档说明实时拦截高风险交易有哪些要求",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0053",
+    "query": "有没有文档说明线上配置能直接在后台改吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0054",
+    "query": "有没有文档说明OMS拆单物流有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0055",
+    "query": "请问CTR模型训练怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0056",
+    "query": "怎么拦住刷单和黑产注册？",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0057",
+    "query": "请问索引分片怎么规划",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0058",
+    "query": "有没有文档说明积分能抵现吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0059",
+    "query": "生产环境禁止改配置",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0060",
+    "query": "有没有文档说明入职IT指引吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0061",
+    "query": "帮忙查一下生产环境禁止改配置？",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0062",
+    "query": "手机号中间四位掩码怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0063",
+    "query": "LDAP账号开通流程有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0064",
+    "query": "请问实时拦截高风险交易",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0065",
+    "query": "有没有文档说明新员工系统权限吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0066",
+    "query": "有没有文档说明积分和促销叠加吗？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0067",
+    "query": "积分过期时间",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0068",
+    "query": "有没有文档说明大促前14天压测有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0069",
+    "query": "有没有文档说明消费者退钱流程有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0070",
+    "query": "有没有文档说明日志禁止输出银行卡号（变体42）吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0071",
+    "query": "想了解新员工怎么开账号有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0072",
+    "query": "消息队列幂等处理？",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0073",
+    "query": "请问用户取消订单如何退款",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0074",
+    "query": "想了解列表页点击预估有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0075",
+    "query": "有没有文档说明Elasticsearch运维（变体8）怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0076",
+    "query": "交易反欺诈系统原理吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0077",
+    "query": "想了解接口可用性要达到多少有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0078",
+    "query": "积分有效期多久有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0079",
+    "query": "有没有文档说明积分过期时间怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0080",
+    "query": "想了解用户历史行为特征工程",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0081",
+    "query": "数据脱敏标准吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0082",
+    "query": "新用户没有行为数据怎么推荐",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0083",
+    "query": "想了解Wide Deep模型特征吗",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0084",
+    "query": "想了解LDAP账号开通流程",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0085",
+    "query": "想了解财务风控合规要求吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0086",
+    "query": "请问促销容量规划",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0087",
+    "query": "有没有文档说明Elasticsearch运维吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0088",
+    "query": "有没有文档说明入职IT指引",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0089",
+    "query": "请问履约路由说明（变体7）吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0090",
+    "query": "商品类目时段渠道特征（变体8）？",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0091",
+    "query": "线上配置能直接在后台改吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0092",
+    "query": "请问盗刷交易识别有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0093",
+    "query": "请问协同过滤冷启动吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0094",
+    "query": "积分兑换比例",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0095",
+    "query": "想了解关联图谱风险识别（变体3）怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0096",
+    "query": "发票开具规范有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0097",
+    "query": "请问Kafka消费组规范（变体56）怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0098",
+    "query": "想了解新用户没有行为数据怎么推荐有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0099",
+    "query": "帮忙查一下新商品曝光策略有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0100",
+    "query": "想了解大促扩容方案评审怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0101",
+    "query": "售后申请怎么提（变体7）？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0102",
+    "query": "想了解RTO故障恢复时限？",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0103",
+    "query": "想了解盗刷交易识别吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0104",
+    "query": "请问财务审计要求（变体6）",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0105",
+    "query": "想了解月度关账审计留痕有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0106",
+    "query": "帮忙查一下协同过滤冷启动怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0107",
+    "query": "能不能直接改生产配置",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0108",
+    "query": "想了解查快递进度系统",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0109",
+    "query": "点击率预测模型",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0110",
+    "query": "帮忙查一下对公打款合规（变体4）吗",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0111",
+    "query": "想了解CTR模型训练怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0112",
+    "query": "帮忙查一下多环境配置隔离有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0113",
+    "query": "有没有文档说明Apollo灰度发布",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0114",
+    "query": "检索集群冷热分层有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0115",
+    "query": "请问新用户推荐算法有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0116",
+    "query": "帮忙查一下交易系统SLA标准怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0117",
+    "query": "想了解履约路由说明有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0118",
+    "query": "帮忙查一下行为序列反欺诈怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0119",
+    "query": "CTR点击率模型特征？",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0120",
+    "query": "帮忙查一下点击率预估用什么结构有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0121",
+    "query": "想了解CTR点击率模型特征（变体2）有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0122",
+    "query": "大促压测扩容方案（变体58）？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0123",
+    "query": "想了解新员工IT onboarding有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0124",
+    "query": "帮忙查一下发票开具规范有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0125",
+    "query": "请问新用户没有行为数据怎么推荐怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0126",
+    "query": "有没有文档说明消费者退钱流程？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0127",
+    "query": "想了解日志禁止输出银行卡号怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0128",
+    "query": "有没有文档说明新员工IT onboarding有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0129",
+    "query": "请问核心接口挂了最多能修多久（变体8）",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0130",
+    "query": "Kafka消费组规范有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0131",
+    "query": "想了解消费积分规则（变体9）有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0132",
+    "query": "想了解接口可用性要达到多少（变体24）",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0133",
+    "query": "帮忙查一下交易反欺诈系统原理怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0134",
+    "query": "想了解慢查询分析工具怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0135",
+    "query": "有没有文档说明微服务配置统一管理怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0136",
+    "query": "请问数据脱敏规范（变体61）怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0137",
+    "query": "请问买家不想买了怎么把钱退回去？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0138",
+    "query": "有没有文档说明大促压测扩容方案有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0139",
+    "query": "有没有文档说明风控网关部署说明？",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0140",
+    "query": "想了解线上配置能直接在后台改吗怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0141",
+    "query": "请问A7821智能风控网关",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0142",
+    "query": "点击率预估用什么结构",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0143",
+    "query": "有没有文档说明订单拆单规则（变体30）吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0144",
+    "query": "订单管理系统OMS",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0145",
+    "query": "有没有文档说明MQ消费幂等？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0146",
+    "query": "想了解订单拆单规则怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0147",
+    "query": "想了解SLA指标要求是什么？",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0148",
+    "query": "财务审计要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0149",
+    "query": "有没有文档说明风控网关部署说明有哪些要求",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0150",
+    "query": "帮忙查一下攒的分能不能当现金用",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0151",
+    "query": "请问消息队列幂等处理有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0152",
+    "query": "大促扩容方案评审？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0153",
+    "query": "请问列表里用户会不会点进去怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0154",
+    "query": "请问风控网关部署说明吗",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0155",
+    "query": "盗刷交易识别",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0156",
+    "query": "Apollo灰度发布怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0157",
+    "query": "有没有文档说明财务合规制度吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0158",
+    "query": "企业转账需要什么？",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0159",
+    "query": "帮忙查一下原路退款要多久到账怎么弄",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0160",
+    "query": "帮忙查一下如何识别盗刷和羊毛党",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0161",
+    "query": "请问原路退款要多久到账有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0162",
+    "query": "帮忙查一下慢查询分析工具吗",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0163",
+    "query": "请问LDAP账号开通流程有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0164",
+    "query": "有没有文档说明履约路由说明（变体65）有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0165",
+    "query": "请问隐私数据脱敏",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0166",
+    "query": "Kafka Topic命名规范",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0167",
+    "query": "帮忙查一下配置中心规范",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0168",
+    "query": "最多停机多久必须恢复怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0169",
+    "query": "帮忙查一下发票开具规范？",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0170",
+    "query": "物流跟踪在哪看",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0171",
+    "query": "帮忙查一下Wiki和Jira权限申请",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0172",
+    "query": "退货后资金退回方式（变体48）吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0173",
+    "query": "订单拆单规则吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0174",
+    "query": "如何识别盗刷和羊毛党",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0175",
+    "query": "请问敏感数据打码要求（变体45）怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0176",
+    "query": "有没有文档说明大促流量预估吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0177",
+    "query": "帮忙查一下月度关账审计留痕？",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0178",
+    "query": "Wiki和Jira权限申请怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0179",
+    "query": "有没有文档说明没人买过东西的新客推什么货吗",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0180",
+    "query": "数据脱敏规范？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0181",
+    "query": "想了解新员工IT onboarding怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0182",
+    "query": "帮忙查一下反欺诈模型架构怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0183",
+    "query": "CTR预估Wide&Deep吗",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0184",
+    "query": "有没有文档说明怎么拦住刷单和黑产注册吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0185",
+    "query": "商品类目时段渠道特征有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0186",
+    "query": "请问服务等级协议怎么规定的（变体27）有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0187",
+    "query": "大促前14天压测怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0188",
+    "query": "有没有文档说明新用户没有行为数据怎么推荐",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0189",
+    "query": "搜索服务熔断限流",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0190",
+    "query": "帮忙查一下异常订单处理流程吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0191",
+    "query": "帮忙查一下内容特征推荐（变体8）？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0192",
+    "query": "想了解高风险交易拦截系统吗",
+    "relevant_doc_id": "doc_003",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0193",
+    "query": "有没有文档说明财务风控合规要求怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0194",
+    "query": "有没有文档说明100积分等于多少钱有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0195",
+    "query": "Topic命名格式吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0196",
+    "query": "请问退货后资金退回方式？",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0197",
+    "query": "Elasticsearch运维吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0198",
+    "query": "帮忙查一下攒的分能不能当现金用（变体59）",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0199",
+    "query": "帮忙查一下羊毛党拦截方案有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0200",
+    "query": "有没有文档说明7821产品规格吗",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0201",
+    "query": "想了解终端安全软件安装",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0202",
+    "query": "请问P99响应时间限制？",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0203",
+    "query": "请问异常订单处理流程怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0204",
+    "query": "生产环境禁止改配置怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0205",
+    "query": "想了解交易反欺诈系统原理吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0206",
+    "query": "有没有文档说明攒的分能不能当现金用有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0207",
+    "query": "请问Apollo灰度发布（变体5）",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0208",
+    "query": "请问设备指纹风控",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0209",
+    "query": "有没有文档说明协同过滤冷启动？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0210",
+    "query": "100积分等于多少钱？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0211",
+    "query": "请问最多停机多久必须恢复有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0212",
+    "query": "ES集群运维规范（变体46）怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0213",
+    "query": "有没有文档说明用户历史行为特征工程有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0214",
+    "query": "想了解点击率预测模型吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0215",
+    "query": "想了解大促扩容方案评审吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0216",
+    "query": "帮忙查一下业务域事件类型版本命名怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0217",
+    "query": "财务合规制度怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0218",
+    "query": "请问积分和促销叠加吗？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0219",
+    "query": "帮忙查一下历史QPS容量评估吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0220",
+    "query": "想了解规则引擎和机器学习联合决策怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0221",
+    "query": "仓库签收后多久退款",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0222",
+    "query": "消费组幂等要求吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0223",
+    "query": "想了解转化率库存深度评估吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0224",
+    "query": "请问退款审批流程（变体45）？",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0225",
+    "query": "大促流量预估？",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0226",
+    "query": "有没有文档说明ES索引分片规划有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0227",
+    "query": "有没有文档说明最多停机多久必须恢复怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0228",
+    "query": "积分有效期多久怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0229",
+    "query": "想了解发票开具规范有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0230",
+    "query": "请问协同过滤冷启动怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0231",
+    "query": "推荐系统冷启动策略怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0232",
+    "query": "订单拆单规则有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0233",
+    "query": "有没有文档说明ES集群运维规范？",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0234",
+    "query": "想了解如何识别盗刷和羊毛党？",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0235",
+    "query": "请问配置回滚怎么做？",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0236",
+    "query": "内容特征推荐（变体4）怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0237",
+    "query": "请问P99响应时间限制怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0238",
+    "query": "数据脱敏规范",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0239",
+    "query": "请问订单创建和履约有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0240",
+    "query": "A7821智能风控网关",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0241",
+    "query": "新用户没有行为数据怎么推荐有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0242",
+    "query": "积分兑换比例怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0243",
+    "query": "有没有文档说明能不能直接改生产配置吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0244",
+    "query": "请问消费积分规则吗",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0245",
+    "query": "想了解会员积分抵扣规则怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0246",
+    "query": "想了解新员工IT onboarding？",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0247",
+    "query": "请问规则引擎和机器学习联合决策",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0248",
+    "query": "P99响应时间限制怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0249",
+    "query": "核心接口可用性指标",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0250",
+    "query": "列表里用户会不会点进去吗",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0251",
+    "query": "想了解售后申请怎么提？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0252",
+    "query": "请问商品类目时段渠道特征吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0253",
+    "query": "日志脱敏规范（变体55）",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0254",
+    "query": "想了解冷启动热门兜底",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0255",
+    "query": "想了解羊毛党拦截方案怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0256",
+    "query": "能不能直接改生产配置有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0257",
+    "query": "请问7821那台风控盒子是干嘛的？",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0258",
+    "query": "有没有文档说明新商品曝光策略（变体39）吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0259",
+    "query": "请问包裹发到哪了在哪查进度怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0260",
+    "query": "新客推荐方案（变体20）怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0261",
+    "query": "请问企业转账需要什么吗",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0262",
+    "query": "帮忙查一下Elasticsearch慢查询排查？",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0263",
+    "query": "核心接口挂了最多能修多久？",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0264",
+    "query": "ES索引分片规划",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0265",
+    "query": "有没有文档说明大促前要做容量评估吗？",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0266",
+    "query": "请问新用户推荐算法（变体51）吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0267",
+    "query": "请问列表页点击预估",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0268",
+    "query": "请问核心接口可用性指标怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0269",
+    "query": "有没有文档说明履约路由说明？",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0270",
+    "query": "想了解新商品曝光策略吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0271",
+    "query": "实时拦截高风险交易吗",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0272",
+    "query": "想了解虚假注册检测怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0273",
+    "query": "请问买家不想买了怎么把钱退回去有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0274",
+    "query": "有没有文档说明财务审计要求怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0275",
+    "query": "有没有文档说明风控网关部署说明",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0276",
+    "query": "想了解履约路由说明",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0277",
+    "query": "想了解能不能直接改生产配置怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0278",
+    "query": "手机号掩码规则有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0279",
+    "query": "Kafka消息规范",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0280",
+    "query": "想了解买家不想买了怎么把钱退回去怎么弄",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0281",
+    "query": "新客推荐方案",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0282",
+    "query": "协同过滤冷启动（变体6）有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0283",
+    "query": "请问MQ消费幂等（变体34）吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0284",
+    "query": "想了解新用户没有行为数据怎么推荐",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0285",
+    "query": "有没有文档说明故障恢复时间RTO是多少怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0286",
+    "query": "消费组幂等要求？",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0287",
+    "query": "帮忙查一下索引分片怎么规划？",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0288",
+    "query": "请问检索集群冷热分层（变体54）？",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0289",
+    "query": "请问Elasticsearch运维吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0290",
+    "query": "想了解服务等级协议怎么规定的有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0291",
+    "query": "帮忙查一下仓库签收后多久退款",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0292",
+    "query": "有没有文档说明商品类目时段渠道特征？",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0293",
+    "query": "帮忙查一下大促流量预估",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0294",
+    "query": "想了解公司账户打款要准备啥材料怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0295",
+    "query": "有没有文档说明设备指纹风控有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0296",
+    "query": "P99响应时间限制？",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0297",
+    "query": "帮忙查一下生产环境禁止改配置怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0298",
+    "query": "有没有文档说明新用户推荐算法（变体10）？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0299",
+    "query": "帮忙查一下用户取消订单如何退款？",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0300",
+    "query": "想了解智能风控网关介绍有哪些要求",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0301",
+    "query": "想了解核心接口挂了最多能修多久怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0302",
+    "query": "帮忙查一下财务退款时效怎么弄",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0303",
+    "query": "事件消息命名规则",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0304",
+    "query": "智能风控网关介绍有哪些要求",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0305",
+    "query": "帮忙查一下高风险交易拦截系统怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0306",
+    "query": "帮忙查一下羊毛党拦截方案（变体57）？",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0307",
+    "query": "请问消费组幂等要求怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0308",
+    "query": "想了解OMS订单管理系统功能",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0309",
+    "query": "帮忙查一下月度关账审计留痕有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0310",
+    "query": "有没有文档说明微服务配置统一管理吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0311",
+    "query": "订单创建和履约（变体44）有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0312",
+    "query": "转化率库存深度评估怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0313",
+    "query": "有没有文档说明积分有效期多久怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0314",
+    "query": "Wiki和Jira权限申请",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0315",
+    "query": "有没有文档说明促销容量规划？",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0316",
+    "query": "想了解MQ消费幂等（变体8）？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0317",
+    "query": "想了解消费积分规则怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0318",
+    "query": "请问Elasticsearch慢查询排查吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0319",
+    "query": "Kafka Topic命名规范？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0320",
+    "query": "有没有文档说明索引分片怎么规划吗",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0321",
+    "query": "智能风控网关介绍（变体63）怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0322",
+    "query": "请问对公打款合规怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0323",
+    "query": "最多停机多久必须恢复（变体45）",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0324",
+    "query": "帮忙查一下LDAP账号开通流程？",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0325",
+    "query": "想了解订单拆单规则（变体55）吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0326",
+    "query": "想了解Kafka Topic命名规范？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0327",
+    "query": "有没有文档说明入职需要申请哪些权限？",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0328",
+    "query": "帮忙查一下MQ消费幂等（变体36）怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0329",
+    "query": "有没有文档说明高风险交易拦截系统吗",
+    "relevant_doc_id": "doc_003",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0330",
+    "query": "请问退货退款流程是什么？",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0331",
+    "query": "有没有文档说明Apollo配置中心用法有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0332",
+    "query": "包裹发到哪了在哪查进度",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0333",
+    "query": "帮忙查一下配置回滚怎么做吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0334",
+    "query": "帮忙查一下OMS订单管理系统功能吗",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0335",
+    "query": "财务退款时效",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0336",
+    "query": "帮忙查一下公司账户打款要准备啥材料",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0337",
+    "query": "月度关账审计留痕",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0338",
+    "query": "帮忙查一下日志禁止输出银行卡号有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0339",
+    "query": "帮忙查一下敏感数据打码要求",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0340",
+    "query": "请问财务退款时效（变体43）",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0341",
+    "query": "想了解风控网关部署说明",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0342",
+    "query": "想了解促销容量规划（变体43）吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0343",
+    "query": "帮忙查一下搜索集群性能优化",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0344",
+    "query": "想了解7821那台风控盒子是干嘛的怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0345",
+    "query": "有没有文档说明公司账户打款要准备啥材料",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0346",
+    "query": "积分有效期多久（变体7）",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0347",
+    "query": "请问查快递进度系统",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0348",
+    "query": "交易反欺诈系统原理？",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0349",
+    "query": "请问订单创建和履约？",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0350",
+    "query": "Elasticsearch慢查询排查",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0351",
+    "query": "ES集群运维规范有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0352",
+    "query": "日志禁止输出银行卡号有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0353",
+    "query": "帮忙查一下RTO故障恢复时限有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0354",
+    "query": "有没有文档说明企业转账需要什么？",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0355",
+    "query": "请问新员工怎么开账号（变体3）",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0356",
+    "query": "请问消费积分规则怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0357",
+    "query": "帮忙查一下会员积分抵扣规则？",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0358",
+    "query": "想了解关联图谱风险识别",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0359",
+    "query": "双11容量准备",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0360",
+    "query": "搜索集群性能优化（变体50）有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0361",
+    "query": "想了解LDAP账号开通流程（变体29）？",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0362",
+    "query": "想了解积分兑换比例",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0363",
+    "query": "有没有文档说明对公转账审批流程有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0364",
+    "query": "想了解原路退款要多久到账？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0365",
+    "query": "Apollo配置中心用法",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0366",
+    "query": "想了解OMS订单管理系统功能吗",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0367",
+    "query": "帮忙查一下攒的分能不能当现金用（变体62）？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0368",
+    "query": "有没有文档说明Kafka消息规范有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0369",
+    "query": "搜索集群性能优化",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0370",
+    "query": "列表页点击预估",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0371",
+    "query": "企业转账需要什么有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0372",
+    "query": "帮忙查一下公司账户打款要准备啥材料吗",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0373",
+    "query": "想了解手机号中间四位掩码怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0374",
+    "query": "帮忙查一下索引分片怎么规划怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0375",
+    "query": "财务退款时效吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0376",
+    "query": "帮忙查一下搜索集群性能优化？",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0377",
+    "query": "SLA指标要求是什么（变体7）怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0378",
+    "query": "有没有文档说明P99响应时间限制吗",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0379",
+    "query": "消费者退钱流程",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0380",
+    "query": "请问核心接口可用性指标有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0381",
+    "query": "如何识别盗刷和羊毛党吗",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0382",
+    "query": "有没有文档说明消费组幂等要求（变体20）有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0383",
+    "query": "帮忙查一下大促前14天压测？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0384",
+    "query": "大促流量预估",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0385",
+    "query": "请问新用户没有行为数据怎么推荐",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0386",
+    "query": "请问异常订单处理流程",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0387",
+    "query": "帮忙查一下CTR点击率模型特征有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0388",
+    "query": "帮忙查一下数据脱敏规范吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0389",
+    "query": "帮忙查一下接口可用性要达到多少",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0390",
+    "query": "帮忙查一下VPN申请步骤",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0391",
+    "query": "履约路由说明",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0392",
+    "query": "有没有文档说明消费积分规则？",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0393",
+    "query": "有没有文档说明内容特征推荐怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0394",
+    "query": "想了解服务等级协议怎么规定的吗",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0395",
+    "query": "想了解交易反欺诈系统原理（变体62）吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0396",
+    "query": "行为序列反欺诈",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0397",
+    "query": "想了解7821产品规格怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0398",
+    "query": "日志禁止输出银行卡号？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0399",
+    "query": "有没有文档说明企业转账需要什么怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0400",
+    "query": "请问积分有效期多久怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0401",
+    "query": "有没有文档说明退货后资金退回方式（变体9）？",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0402",
+    "query": "帮忙查一下促销容量规划（变体19）",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0403",
+    "query": "想了解消费者退钱流程有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0404",
+    "query": "SLA指标要求是什么吗",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0405",
+    "query": "请问OMS订单管理系统功能有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0406",
+    "query": "请问入职需要申请哪些权限",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0407",
+    "query": "请问新商品曝光策略",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0408",
+    "query": "想了解入职IT指引？",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0409",
+    "query": "有没有文档说明搜索越来越慢是不是索引有问题吗",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0410",
+    "query": "想了解手机号掩码规则吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0411",
+    "query": "有没有文档说明P99响应时间限制？",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0412",
+    "query": "想了解CTR模型训练？",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0413",
+    "query": "想了解物流跟踪在哪看？",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0414",
+    "query": "反欺诈模型架构怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0415",
+    "query": "想了解搜索服务熔断限流怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0416",
+    "query": "有没有文档说明商品类目时段渠道特征",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0417",
+    "query": "帮忙查一下售后申请怎么提怎么弄",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0418",
+    "query": "帮忙查一下Topic命名格式？",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0419",
+    "query": "请问对公打款合规有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0420",
+    "query": "想了解身份证号脱敏规则有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0421",
+    "query": "包裹发到哪了在哪查进度？",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0422",
+    "query": "想了解异常订单处理流程（变体10）怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0423",
+    "query": "有没有文档说明规则引擎和机器学习联合决策吗",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0424",
+    "query": "有没有文档说明羊毛党拦截方案有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0425",
+    "query": "弹性扩容评审",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0426",
+    "query": "想了解订单管理系统OMS？",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0427",
+    "query": "历史QPS容量评估",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0428",
+    "query": "积分有效期多久",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0429",
+    "query": "帮忙查一下查快递进度系统",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0430",
+    "query": "消息队列Topic规范吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0431",
+    "query": "有没有文档说明推荐系统冷启动策略吗",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0432",
+    "query": "请问热门商品兜底推荐怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0433",
+    "query": "有没有文档说明大促扩容方案评审吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0434",
+    "query": "有没有文档说明买家不想买了怎么把钱退回去（变体37）有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0435",
+    "query": "帮忙查一下CTR预估Wide&Deep吗",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0436",
+    "query": "想了解包裹发到哪了在哪查进度有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0437",
+    "query": "大促流量预估怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0438",
+    "query": "帮忙查一下ES索引分片规划（变体62）有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0439",
+    "query": "LDAP账号开通流程？",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0440",
+    "query": "想了解消费积分规则有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0441",
+    "query": "有没有文档说明积分能抵现吗？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0442",
+    "query": "有没有文档说明ES集群运维规范吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0443",
+    "query": "请问日志禁止输出银行卡号？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0444",
+    "query": "CTR点击率模型特征有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0445",
+    "query": "请问会员积分抵扣规则怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0446",
+    "query": "帮忙查一下LDAP账号开通流程有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0447",
+    "query": "请问入职IT指引有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0448",
+    "query": "帮忙查一下日志脱敏规范",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0449",
+    "query": "请问新员工怎么开账号怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0450",
+    "query": "企业转账需要什么吗",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0451",
+    "query": "请问接口可用性要达到多少（变体67）",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0452",
+    "query": "协同过滤冷启动",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0453",
+    "query": "想了解检索集群冷热分层吗",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0454",
+    "query": "想了解大促压测扩容方案（变体9）吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0455",
+    "query": "帮忙查一下隐私数据脱敏怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0456",
+    "query": "配置灰度发布流程有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0457",
+    "query": "有没有文档说明RTO故障恢复时限吗",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0458",
+    "query": "关联图谱风险识别",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0459",
+    "query": "请问CTR预估Wide&Deep",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0460",
+    "query": "请问Apollo灰度发布？",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0461",
+    "query": "售后申请怎么提",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0462",
+    "query": "请问交易反欺诈系统原理（变体58）有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0463",
+    "query": "想了解核心接口可用性指标有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0464",
+    "query": "有没有文档说明微服务配置统一管理",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0465",
+    "query": "有没有文档说明交易系统SLA标准有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0466",
+    "query": "帮忙查一下大促压测扩容方案吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0467",
+    "query": "帮忙查一下搜索越来越慢是不是索引有问题吗",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0468",
+    "query": "有没有文档说明双11容量准备怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0469",
+    "query": "想了解Wide Deep模型特征怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0470",
+    "query": "有没有文档说明推荐系统冷启动策略",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0471",
+    "query": "想了解Topic命名格式（变体66）有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0472",
+    "query": "请问虚假注册检测（变体66）",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0473",
+    "query": "有没有文档说明搜索集群性能优化？",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0474",
+    "query": "请问Wide Deep模型特征吗",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0475",
+    "query": "有没有文档说明日志禁止输出银行卡号？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0476",
+    "query": "对公转账审批流程",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0477",
+    "query": "请问接口可用性要达到多少",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0478",
+    "query": "想了解身份证号脱敏规则",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0479",
+    "query": "想了解Elasticsearch运维（变体9）吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0480",
+    "query": "新客推荐方案？",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0481",
+    "query": "帮忙查一下终端安全软件安装吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0482",
+    "query": "大促前要做容量评估吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0483",
+    "query": "请问积分和促销叠加吗怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0484",
+    "query": "有没有文档说明IT入职流程？",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0485",
+    "query": "请问退货退款流程是什么（变体55）",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0486",
+    "query": "微服务配置统一管理",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0487",
+    "query": "有没有文档说明Wiki和Jira权限申请",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0488",
+    "query": "帮忙查一下财务合规制度吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0489",
+    "query": "有没有文档说明实时拦截高风险交易",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0490",
+    "query": "订单创建和履约怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0491",
+    "query": "想了解MQ消费幂等有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0492",
+    "query": "Wide Deep模型特征",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0493",
+    "query": "有没有文档说明风控网关日均处理量？",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0494",
+    "query": "内容特征推荐",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0495",
+    "query": "协同过滤冷启动有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0496",
+    "query": "MQ消费幂等怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0497",
+    "query": "帮忙查一下促销容量规划怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0498",
+    "query": "请问财务审计要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0499",
+    "query": "想了解接口可用性要达到多少（变体5）",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0500",
+    "query": "入职需要申请哪些权限？",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0501",
+    "query": "想了解100积分等于多少钱吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0502",
+    "query": "帮忙查一下大促压测扩容方案？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0503",
+    "query": "想了解Apollo配置中心用法",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0504",
+    "query": "帮忙查一下弹性扩容评审怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0505",
+    "query": "消费积分规则",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0506",
+    "query": "弹性扩容评审有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0507",
+    "query": "想了解积分有效期多久？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0508",
+    "query": "请问怎么拦住刷单和黑产注册（变体9）怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0509",
+    "query": "财务风控合规要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0510",
+    "query": "接口可用性要达到多少",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0511",
+    "query": "想了解业务域事件类型版本命名吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0512",
+    "query": "请问羊毛党拦截方案",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0513",
+    "query": "有没有文档说明智能风控网关介绍",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0514",
+    "query": "想了解对公打款合规",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0515",
+    "query": "请问财务风控合规要求有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0516",
+    "query": "想了解对公转账审批流程（变体7）有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0517",
+    "query": "请问设备指纹风控？",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0518",
+    "query": "有没有文档说明配置回滚怎么做怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0519",
+    "query": "帮忙查一下Apollo灰度发布怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0520",
+    "query": "反欺诈模型架构",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0521",
+    "query": "帮忙查一下MQ消费幂等（变体9）怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0522",
+    "query": "有没有文档说明搜索越来越慢是不是索引有问题",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0523",
+    "query": "帮忙查一下Kafka Topic命名规范怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0524",
+    "query": "帮忙查一下ES集群运维规范有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0525",
+    "query": "有没有文档说明消息队列幂等处理（变体6）",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0526",
+    "query": "帮忙查一下配置中心规范有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0527",
+    "query": "请问微服务配置统一管理？",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0528",
+    "query": "公司账户打款要准备啥材料",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0529",
+    "query": "有没有文档说明Elasticsearch慢查询排查有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0530",
+    "query": "请问商品类目时段渠道特征（变体9）怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0531",
+    "query": "帮忙查一下攒的分能不能当现金用有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0532",
+    "query": "有没有文档说明发票开具规范怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0533",
+    "query": "想了解反欺诈模型架构",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0534",
+    "query": "帮忙查一下LDAP账号开通流程怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0535",
+    "query": "帮忙查一下日志脱敏规范？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0536",
+    "query": "想了解对公打款合规怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0537",
+    "query": "有没有文档说明攒的分能不能当现金用怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0538",
+    "query": "帮忙查一下新用户推荐算法？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0539",
+    "query": "想了解搜索服务熔断限流吗",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0540",
+    "query": "请问微服务配置统一管理（变体10）？",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0541",
+    "query": "帮忙查一下Apollo灰度发布有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0542",
+    "query": "请问点击率预估用什么结构",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0543",
+    "query": "Elasticsearch运维",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0544",
+    "query": "想了解终端安全软件安装有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0545",
+    "query": "虚假注册检测",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0546",
+    "query": "想了解列表里用户会不会点进去吗",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0547",
+    "query": "接口可用性要达到多少有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0548",
+    "query": "风控网关部署说明有哪些要求",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0549",
+    "query": "请问风控网关部署说明怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0550",
+    "query": "帮忙查一下数据脱敏标准（变体9）？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0551",
+    "query": "帮忙查一下内容特征推荐有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0552",
+    "query": "帮忙查一下财务风控合规要求有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0553",
+    "query": "想了解敏感数据打码要求",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0554",
+    "query": "有没有文档说明查快递进度系统有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0555",
+    "query": "积分能抵现吗（变体57）有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0556",
+    "query": "帮忙查一下SLA指标要求是什么（变体46）",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0557",
+    "query": "Kafka消费组规范",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0558",
+    "query": "想了解查快递进度系统有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0559",
+    "query": "有没有文档说明怎么拦住刷单和黑产注册怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0560",
+    "query": "有没有文档说明会员积分制度？",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0561",
+    "query": "想了解ES集群运维规范怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0562",
+    "query": "盗刷交易识别吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0563",
+    "query": "请问手机号掩码规则（变体35）吗",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0564",
+    "query": "消息队列Topic规范",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0565",
+    "query": "有没有文档说明消费组幂等要求有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0566",
+    "query": "订单创建和履约吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0567",
+    "query": "帮忙查一下积分过期时间？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0568",
+    "query": "想了解新用户没有行为数据怎么推荐怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0569",
+    "query": "帮忙查一下订单创建和履约有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0570",
+    "query": "点击率预估用什么结构怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0571",
+    "query": "有没有文档说明转化率库存深度评估有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0572",
+    "query": "有没有文档说明退货退款流程是什么吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0573",
+    "query": "请问入职IT指引怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0574",
+    "query": "核心接口挂了最多能修多久有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0575",
+    "query": "会员积分抵扣规则",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0576",
+    "query": "Apollo配置中心用法怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0577",
+    "query": "想了解日志脱敏规范？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0578",
+    "query": "热门商品兜底推荐",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0579",
+    "query": "请问服务等级协议怎么规定的？",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0580",
+    "query": "帮忙查一下Wiki和Jira权限申请怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0581",
+    "query": "想了解Kafka Topic命名规范",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0582",
+    "query": "有没有文档说明Topic命名格式",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0583",
+    "query": "VPN申请步骤怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0584",
+    "query": "请问大促流量预估吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0585",
+    "query": "请问怎么拦住刷单和黑产注册有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0586",
+    "query": "发票和对公转账有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0587",
+    "query": "想了解财务审计要求吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0588",
+    "query": "有没有文档说明协同过滤冷启动有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0589",
+    "query": "想了解对公打款合规？",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0590",
+    "query": "高风险交易拦截系统吗",
+    "relevant_doc_id": "doc_003",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0591",
+    "query": "有没有文档说明核心接口可用性指标？",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0592",
+    "query": "请问慢查询分析工具（变体40）",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0593",
+    "query": "想了解消费组幂等要求怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0594",
+    "query": "想了解用户取消订单如何退款吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0595",
+    "query": "想了解智能风控网关介绍？",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0596",
+    "query": "线上配置能直接在后台改吗怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0597",
+    "query": "请问RTO故障恢复时限",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0598",
+    "query": "帮忙查一下列表里用户会不会点进去（变体63）吗",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0599",
+    "query": "想了解退货后资金退回方式吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0600",
+    "query": "有没有文档说明CTR预估Wide&Deep",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0601",
+    "query": "慢查询分析工具怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0602",
+    "query": "有没有文档说明设备指纹风控怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0603",
+    "query": "想了解核心接口可用性指标吗",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0604",
+    "query": "有没有文档说明如何识别盗刷和羊毛党？",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0605",
+    "query": "帮忙查一下商品类目时段渠道特征怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0606",
+    "query": "隐私数据脱敏",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0607",
+    "query": "买家不想买了怎么把钱退回去",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0608",
+    "query": "请问攒的分能不能当现金用（变体65）？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0609",
+    "query": "想了解新商品曝光策略（变体66）",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0610",
+    "query": "帮忙查一下微服务配置统一管理有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0611",
+    "query": "有没有文档说明订单拆单规则吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0612",
+    "query": "帮忙查一下SKU-A7821网关功能有哪些要求",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0613",
+    "query": "关联图谱风险识别（变体8）有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0614",
+    "query": "请问新员工IT onboarding",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0615",
+    "query": "请问买家不想买了怎么把钱退回去",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0616",
+    "query": "请问多环境配置隔离？",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0617",
+    "query": "想了解财务退款时效",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0618",
+    "query": "有没有文档说明MQ消费幂等",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0619",
+    "query": "风控网关部署说明？",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0620",
+    "query": "促销容量规划",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0621",
+    "query": "想了解100积分等于多少钱？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0622",
+    "query": "有没有文档说明敏感数据打码要求",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0623",
+    "query": "CTR预估Wide&Deep",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0624",
+    "query": "有没有文档说明转化率库存深度评估？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0625",
+    "query": "帮忙查一下大促前14天压测怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0626",
+    "query": "财务审计要求（变体45）吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0627",
+    "query": "Apollo配置中心用法？",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0628",
+    "query": "有没有文档说明财务风控合规要求（变体50）",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0629",
+    "query": "请问LDAP账号开通流程吗",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0630",
+    "query": "接口可用性要达到多少？",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0631",
+    "query": "请问最多停机多久必须恢复",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0632",
+    "query": "想了解设备指纹风控怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0633",
+    "query": "Apollo灰度发布",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0634",
+    "query": "帮忙查一下服务等级协议怎么规定的？",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0635",
+    "query": "退货退款流程是什么",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0636",
+    "query": "帮忙查一下攒的分能不能当现金用吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0637",
+    "query": "帮忙查一下服务等级协议怎么规定的有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0638",
+    "query": "退货后资金退回方式",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0639",
+    "query": "帮忙查一下财务风控合规要求怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0640",
+    "query": "想了解高风险交易拦截系统怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0641",
+    "query": "想了解新员工IT onboarding",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0642",
+    "query": "有没有文档说明热门商品兜底推荐怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0643",
+    "query": "想了解列表里用户会不会点进去怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0644",
+    "query": "想了解积分和促销叠加吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0645",
+    "query": "请问协同过滤冷启动？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0646",
+    "query": "日志禁止输出银行卡号",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0647",
+    "query": "微服务配置统一管理（变体57）怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0648",
+    "query": "有没有文档说明手机号中间四位掩码怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0649",
+    "query": "最多停机多久必须恢复吗",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0650",
+    "query": "积分和促销叠加吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0651",
+    "query": "想了解消费组幂等要求吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0652",
+    "query": "异常订单处理流程",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0653",
+    "query": "请问对公转账审批流程？",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0654",
+    "query": "虚假注册检测吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0655",
+    "query": "IT入职流程有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0656",
+    "query": "新商品曝光策略怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0657",
+    "query": "数据脱敏规范怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0658",
+    "query": "帮忙查一下行为序列反欺诈吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0659",
+    "query": "请问接口可用性要达到多少？",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0660",
+    "query": "请问微服务配置统一管理",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0661",
+    "query": "帮忙查一下没人买过东西的新客推什么货怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0662",
+    "query": "请问风控网关日均处理量怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0663",
+    "query": "财务审计要求怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0664",
+    "query": "请问订单创建和履约吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0665",
+    "query": "帮忙查一下对公转账审批流程（变体62）怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0666",
+    "query": "有没有文档说明如何识别盗刷和羊毛党（变体10）？",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0667",
+    "query": "请问Apollo灰度发布怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0668",
+    "query": "故障恢复时间RTO是多少？",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0669",
+    "query": "想了解Apollo配置中心用法吗",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0670",
+    "query": "有没有文档说明订单管理系统OMS吗",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0671",
+    "query": "请问履约路由说明怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0672",
+    "query": "有没有文档说明OMS订单管理系统功能有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0673",
+    "query": "消费积分规则（变体31）",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0674",
+    "query": "有没有文档说明行为序列反欺诈有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0675",
+    "query": "请问财务退款时效（变体20）有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0676",
+    "query": "有没有文档说明大促前14天压测",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0677",
+    "query": "请问新员工IT onboarding有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0678",
+    "query": "新员工怎么开账号",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0679",
+    "query": "想了解Elasticsearch运维？",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0680",
+    "query": "双11容量准备有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0681",
+    "query": "日志脱敏规范",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0682",
+    "query": "请问Kafka消息规范？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0683",
+    "query": "想了解弹性扩容评审吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0684",
+    "query": "订单创建和履约",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0685",
+    "query": "消费者退钱流程（变体60）有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0686",
+    "query": "帮忙查一下大促流量预估怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0687",
+    "query": "售后申请怎么提有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0688",
+    "query": "有没有文档说明原路退款要多久到账怎么弄",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0689",
+    "query": "帮忙查一下羊毛党拦截方案吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0690",
+    "query": "点击率预估用什么结构（变体52）有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0691",
+    "query": "VPN申请步骤",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0692",
+    "query": "有没有文档说明消息队列幂等处理吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0693",
+    "query": "有没有文档说明7821那台风控盒子是干嘛的",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0694",
+    "query": "想了解订单拆单规则吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0695",
+    "query": "请问新员工系统权限（变体42）吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0696",
+    "query": "有没有文档说明消费组幂等要求（变体62）有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0697",
+    "query": "有没有文档说明点击率预估用什么结构",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0698",
+    "query": "有没有文档说明7821产品规格怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0699",
+    "query": "有没有文档说明数据脱敏标准？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0700",
+    "query": "入职需要申请哪些权限",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0701",
+    "query": "有没有文档说明检索集群冷热分层有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0702",
+    "query": "帮忙查一下攒的分能不能当现金用怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0703",
+    "query": "积分和促销叠加吗（变体8）怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0704",
+    "query": "帮忙查一下买家不想买了怎么把钱退回去（变体4）",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0705",
+    "query": "帮忙查一下SKU-A7821网关功能吗",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0706",
+    "query": "想了解慢查询分析工具（变体24）？",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0707",
+    "query": "想了解查快递进度系统吗",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0708",
+    "query": "智能风控网关介绍",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0709",
+    "query": "想了解推荐系统冷启动策略（变体57）？",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0710",
+    "query": "7821那台风控盒子是干嘛的",
+    "relevant_doc_id": "doc_003",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0711",
+    "query": "有没有文档说明配置中心规范吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0712",
+    "query": "帮忙查一下新用户推荐算法有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0713",
+    "query": "帮忙查一下配置灰度发布流程有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0714",
+    "query": "想了解退款审批流程吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0715",
+    "query": "帮忙查一下IT入职流程怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0716",
+    "query": "有没有文档说明买家不想买了怎么把钱退回去吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0717",
+    "query": "请问历史QPS容量评估（变体54）有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0718",
+    "query": "有没有文档说明交易反欺诈系统原理吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0719",
+    "query": "帮忙查一下售后申请怎么提（变体6）怎么弄",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0720",
+    "query": "请问对公打款合规",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0721",
+    "query": "帮忙查一下Elasticsearch运维（变体64）有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0722",
+    "query": "帮忙查一下大促压测扩容方案",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0723",
+    "query": "有没有文档说明点击率预测模型吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0724",
+    "query": "有没有文档说明原路退款要多久到账有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0725",
+    "query": "想了解Kafka消费组规范怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0726",
+    "query": "帮忙查一下搜索集群性能优化（变体43）有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0727",
+    "query": "想了解接口可用性要达到多少（变体9）有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0728",
+    "query": "请问双11容量准备吗",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0729",
+    "query": "请问商品类目时段渠道特征（变体54）吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0730",
+    "query": "有没有文档说明搜索集群性能优化吗",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0731",
+    "query": "帮忙查一下财务合规制度有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0732",
+    "query": "有没有文档说明盗刷交易识别吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0733",
+    "query": "帮忙查一下履约路由说明（变体5）",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0734",
+    "query": "请问日志禁止输出银行卡号",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0735",
+    "query": "有没有文档说明仓库签收后多久退款怎么弄",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0736",
+    "query": "帮忙查一下对公转账审批流程吗",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0737",
+    "query": "想了解怎么拦住刷单和黑产注册？",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0738",
+    "query": "核心接口挂了最多能修多久",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0739",
+    "query": "消息队列幂等处理（变体47）？",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0740",
+    "query": "帮忙查一下Kafka消息规范吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0741",
+    "query": "想了解消费者退钱流程（变体27）吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0742",
+    "query": "有没有文档说明Kafka消费组规范怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0743",
+    "query": "有没有文档说明终端安全软件安装怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0744",
+    "query": "帮忙查一下虚假注册检测？",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0745",
+    "query": "帮忙查一下搜索集群性能优化怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0746",
+    "query": "数据脱敏标准",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0747",
+    "query": "请问大促压测扩容方案（变体66）？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0748",
+    "query": "想了解订单创建和履约怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0749",
+    "query": "商品类目时段渠道特征",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0750",
+    "query": "有没有文档说明服务等级协议怎么规定的",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0751",
+    "query": "LDAP账号开通流程",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0752",
+    "query": "订单管理系统OMS吗",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0753",
+    "query": "日志里别把用户手机号全打出来怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0754",
+    "query": "帮忙查一下内容特征推荐？",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0755",
+    "query": "帮忙查一下促销容量规划有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0756",
+    "query": "帮忙查一下盗刷交易识别吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0757",
+    "query": "有没有文档说明新商品曝光策略吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0758",
+    "query": "检索集群冷热分层",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0759",
+    "query": "MQ消费幂等",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0760",
+    "query": "配置灰度发布流程怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0761",
+    "query": "想了解A7821智能风控网关怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0762",
+    "query": "有没有文档说明配置回滚怎么做吗",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0763",
+    "query": "请问订单管理系统OMS",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0764",
+    "query": "Topic命名格式怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0765",
+    "query": "有没有文档说明入职需要申请哪些权限",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0766",
+    "query": "怎么拦住刷单和黑产注册",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0767",
+    "query": "入职IT指引",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0768",
+    "query": "SLA指标要求是什么",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0769",
+    "query": "想了解CTR点击率模型特征",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0770",
+    "query": "Wiki和Jira权限申请有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0771",
+    "query": "帮忙查一下智能风控网关介绍有哪些要求",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0772",
+    "query": "有没有文档说明原路退款要多久到账？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0773",
+    "query": "有没有文档说明SLA指标要求是什么",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0774",
+    "query": "对公打款合规",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0775",
+    "query": "请问OMS订单管理系统功能（变体39）有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0776",
+    "query": "请问仓库签收后多久退款有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0777",
+    "query": "请问最多停机多久必须恢复吗",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0778",
+    "query": "帮忙查一下SLA指标要求是什么有哪些要求",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0779",
+    "query": "想了解慢查询分析工具吗",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0780",
+    "query": "想了解没人买过东西的新客推什么货怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0781",
+    "query": "双11容量准备怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0782",
+    "query": "新员工系统权限？",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0783",
+    "query": "有没有文档说明原路退款要多久到账",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0784",
+    "query": "想了解Kafka消费组规范",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0785",
+    "query": "想了解会员积分制度吗",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0786",
+    "query": "请问新客推荐方案吗",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0787",
+    "query": "帮忙查一下微服务配置统一管理怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0788",
+    "query": "想了解配置中心规范怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0789",
+    "query": "帮忙查一下入职需要申请哪些权限吗",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0790",
+    "query": "想了解双11容量准备有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0791",
+    "query": "请问盗刷交易识别吗",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0792",
+    "query": "想了解CTR点击率模型特征（变体38）",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0793",
+    "query": "请问Wiki和Jira权限申请",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0794",
+    "query": "CTR模型训练",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0795",
+    "query": "想了解积分和促销叠加吗？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0796",
+    "query": "请问SLA指标要求是什么（变体65）吗",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0797",
+    "query": "有没有文档说明新用户推荐算法有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0798",
+    "query": "帮忙查一下搜索集群性能优化有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0799",
+    "query": "帮忙查一下ES索引分片规划吗",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0800",
+    "query": "想了解大促压测扩容方案？",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0801",
+    "query": "企业转账需要什么",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0802",
+    "query": "身份证号脱敏规则吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0803",
+    "query": "请问消费组幂等要求",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0804",
+    "query": "数据脱敏规范有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0805",
+    "query": "身份证号脱敏规则有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0806",
+    "query": "P99响应时间限制",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0807",
+    "query": "想了解消费积分规则（变体60）",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0808",
+    "query": "新用户推荐算法",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0809",
+    "query": "想了解对公打款合规有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0810",
+    "query": "请问CTR模型训练？",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0811",
+    "query": "帮忙查一下新商品曝光策略",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0812",
+    "query": "有没有文档说明索引分片怎么规划？",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0813",
+    "query": "想了解配置灰度发布流程吗",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0814",
+    "query": "想了解手机号掩码规则有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0815",
+    "query": "想了解发票和对公转账",
+    "relevant_doc_id": "doc_008",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0816",
+    "query": "帮忙查一下商品类目时段渠道特征",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0817",
+    "query": "请问消费者退钱流程吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0818",
+    "query": "有没有文档说明日志脱敏规范有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0819",
+    "query": "想了解Kafka消费组规范吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0820",
+    "query": "请问OMS订单管理系统功能吗",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0821",
+    "query": "想了解仓库签收后多久退款",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0822",
+    "query": "CTR预估Wide&Deep有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0823",
+    "query": "有没有文档说明新商品曝光策略",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0824",
+    "query": "帮忙查一下点击率预估用什么结构（变体23）？",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0825",
+    "query": "帮忙查一下查快递进度系统吗",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0826",
+    "query": "想了解线上配置能直接在后台改吗（变体8）？",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0827",
+    "query": "想了解新员工怎么开账号（变体8）有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0828",
+    "query": "帮忙查一下积分能抵现吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0829",
+    "query": "帮忙查一下智能风控网关介绍吗",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0830",
+    "query": "帮忙查一下历史QPS容量评估",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0831",
+    "query": "CTR点击率模型特征",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0832",
+    "query": "请问Elasticsearch运维",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0833",
+    "query": "大促扩容方案评审",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0834",
+    "query": "想了解IT入职流程（变体32）吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0835",
+    "query": "想了解Apollo灰度发布怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0836",
+    "query": "ES索引分片规划？",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0837",
+    "query": "想了解规则引擎和机器学习联合决策有哪些要求",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0838",
+    "query": "帮忙查一下盗刷交易识别怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0839",
+    "query": "实时拦截高风险交易",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0840",
+    "query": "帮忙查一下Elasticsearch慢查询排查（变体49）",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0841",
+    "query": "帮忙查一下买家不想买了怎么把钱退回去？",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0842",
+    "query": "慢查询分析工具",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0843",
+    "query": "能不能直接改生产配置（变体16）",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0844",
+    "query": "有没有文档说明业务域事件类型版本命名（变体64）怎么弄",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0845",
+    "query": "想了解CTR预估Wide&Deep",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0846",
+    "query": "消息队列幂等处理",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0847",
+    "query": "帮忙查一下手机号掩码规则？",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0848",
+    "query": "规则引擎和机器学习联合决策",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0849",
+    "query": "财务退款时效有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0850",
+    "query": "有没有文档说明历史QPS容量评估怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0851",
+    "query": "帮忙查一下搜索越来越慢是不是索引有问题怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0852",
+    "query": "帮忙查一下公司账户打款要准备啥材料（变体58）",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0853",
+    "query": "多环境配置隔离",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0854",
+    "query": "有没有文档说明入职IT指引怎么弄",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0855",
+    "query": "微服务配置统一管理有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0856",
+    "query": "大促前14天压测",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0857",
+    "query": "请问检索集群冷热分层有哪些要求",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0858",
+    "query": "想了解配置灰度发布流程（变体64）",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0859",
+    "query": "想了解入职需要申请哪些权限",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0860",
+    "query": "积分能抵现吗有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0861",
+    "query": "有没有文档说明OMS拆单物流（变体9）怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0862",
+    "query": "请问生产环境禁止改配置怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0863",
+    "query": "有没有文档说明会员积分抵扣规则（变体10）有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0864",
+    "query": "新员工怎么开账号有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0865",
+    "query": "请问会员积分抵扣规则？",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0866",
+    "query": "核心接口可用性指标怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0867",
+    "query": "有没有文档说明Kafka Topic命名规范有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0868",
+    "query": "IT入职流程",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0869",
+    "query": "帮忙查一下Kafka消息规范",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0870",
+    "query": "帮忙查一下怎么拦住刷单和黑产注册怎么弄",
+    "relevant_doc_id": "doc_004",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0871",
+    "query": "业务域事件类型版本命名",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0872",
+    "query": "想了解风控网关日均处理量（变体9）怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0873",
+    "query": "帮忙查一下订单创建和履约吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0874",
+    "query": "风控网关日均处理量怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0875",
+    "query": "有没有文档说明点击率预测模型",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0876",
+    "query": "想了解异常订单处理流程（变体45）有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0877",
+    "query": "异常订单处理流程？",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0878",
+    "query": "想了解大促前14天压测怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0879",
+    "query": "有没有文档说明推荐系统冷启动策略？",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0880",
+    "query": "想了解搜索集群性能优化（变体36）",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0881",
+    "query": "有没有文档说明积分能抵现吗有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0882",
+    "query": "请问手机号中间四位掩码有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0883",
+    "query": "事件消息命名规则吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0884",
+    "query": "有没有文档说明虚假注册检测吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0885",
+    "query": "有没有文档说明反欺诈模型架构吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0886",
+    "query": "帮忙查一下消费组幂等要求？",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0887",
+    "query": "有没有文档说明日志脱敏规范",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0888",
+    "query": "帮忙查一下财务退款时效",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0889",
+    "query": "想了解大促压测扩容方案吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0890",
+    "query": "帮忙查一下CTR模型训练吗",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0891",
+    "query": "想了解财务退款时效怎么弄",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0892",
+    "query": "MQ消费幂等吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0893",
+    "query": "帮忙查一下IT入职流程",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0894",
+    "query": "没人买过东西的新客推什么货",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0895",
+    "query": "帮忙查一下Apollo灰度发布（变体2）？",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0896",
+    "query": "帮忙查一下列表页点击预估（变体59）有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0897",
+    "query": "大促压测扩容方案",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0898",
+    "query": "帮忙查一下新员工IT onboarding有哪些要求",
+    "relevant_doc_id": "doc_014",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0899",
+    "query": "帮忙查一下线上配置能直接在后台改吗有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0900",
+    "query": "帮忙查一下设备指纹风控有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0901",
+    "query": "帮忙查一下数据脱敏规范？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0902",
+    "query": "帮忙查一下履约路由说明怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0903",
+    "query": "想了解消息队列Topic规范吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0904",
+    "query": "请问日志里别把用户手机号全打出来怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0905",
+    "query": "退货后资金退回方式吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0906",
+    "query": "帮忙查一下列表页点击预估怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0907",
+    "query": "如何识别盗刷和羊毛党有哪些要求",
+    "relevant_doc_id": "doc_004",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0908",
+    "query": "想了解积分能抵现吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0909",
+    "query": "请问CTR点击率模型特征",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0910",
+    "query": "敏感数据打码要求",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0911",
+    "query": "帮忙查一下敏感数据打码要求有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0912",
+    "query": "交易系统SLA标准",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0913",
+    "query": "有没有文档说明数据脱敏规范",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0914",
+    "query": "有没有文档说明Kafka消费组规范（变体41）？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0915",
+    "query": "想了解积分过期时间怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0916",
+    "query": "想了解推荐系统冷启动策略怎么弄",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0917",
+    "query": "想了解Kafka消息规范吗",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0918",
+    "query": "有没有文档说明攒的分能不能当现金用吗",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0919",
+    "query": "想了解手机号中间四位掩码吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0920",
+    "query": "请问Apollo灰度发布（变体7）有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0921",
+    "query": "请问退货退款流程是什么有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0922",
+    "query": "积分过期时间（变体51）有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0923",
+    "query": "想了解退货退款流程是什么吗",
+    "relevant_doc_id": "doc_002",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0924",
+    "query": "有没有文档说明大促流量预估（变体60）有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0925",
+    "query": "有没有文档说明积分和促销叠加吗有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0926",
+    "query": "想了解发票和对公转账吗",
+    "relevant_doc_id": "doc_008",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0927",
+    "query": "想了解身份证号脱敏规则？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0928",
+    "query": "日志里别把用户手机号全打出来有哪些要求",
+    "relevant_doc_id": "doc_012",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0929",
+    "query": "请问日志脱敏规范？",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0930",
+    "query": "帮忙查一下攒的分能不能当现金用？",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0931",
+    "query": "有没有文档说明CTR点击率模型特征（变体67）怎么弄",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0932",
+    "query": "请问日志禁止输出银行卡号怎么弄",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0933",
+    "query": "想了解SKU-A7821网关功能吗",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0934",
+    "query": "大促流量预估有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0935",
+    "query": "请问大促压测扩容方案吗",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0936",
+    "query": "请问反欺诈模型架构吗",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0937",
+    "query": "有没有文档说明Apollo灰度发布吗",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0938",
+    "query": "帮忙查一下RTO故障恢复时限？",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0939",
+    "query": "有没有文档说明微服务配置统一管理（变体32）怎么弄",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0940",
+    "query": "交易反欺诈系统原理",
+    "relevant_doc_id": "doc_004",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0941",
+    "query": "请问隐私数据脱敏吗",
+    "relevant_doc_id": "doc_012",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0942",
+    "query": "想了解消息队列幂等处理有哪些要求",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0943",
+    "query": "帮忙查一下核心接口挂了最多能修多久怎么弄",
+    "relevant_doc_id": "doc_001",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0944",
+    "query": "请问积分过期时间",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0945",
+    "query": "想了解仓库签收后多久退款吗",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0946",
+    "query": "风控网关部署说明吗",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0947",
+    "query": "帮忙查一下企业转账需要什么",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0948",
+    "query": "帮忙查一下列表页点击预估",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0949",
+    "query": "请问Topic命名格式吗",
+    "relevant_doc_id": "doc_013",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0950",
+    "query": "有没有文档说明搜索集群性能优化",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0951",
+    "query": "点击率预估用什么结构吗",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0952",
+    "query": "请问发票和对公转账怎么弄",
+    "relevant_doc_id": "doc_008",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0953",
+    "query": "搜索集群性能优化？",
+    "relevant_doc_id": "doc_011",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0954",
+    "query": "请问点击率预测模型？",
+    "relevant_doc_id": "doc_007",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0955",
+    "query": "请问发票和对公转账有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0956",
+    "query": "有没有文档说明包裹发到哪了在哪查进度有哪些要求",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0957",
+    "query": "帮忙查一下公司账户打款要准备啥材料有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0958",
+    "query": "想了解消费积分规则？",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0959",
+    "query": "帮忙查一下推荐系统冷启动策略（变体59）有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "domain_jargon"
+  },
+  {
+    "id": "bench_0960",
+    "query": "Kafka消费组规范？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0961",
+    "query": "想了解高风险交易拦截系统（变体66）吗",
+    "relevant_doc_id": "doc_003",
+    "category": "domain_synonym"
+  },
+  {
+    "id": "bench_0962",
+    "query": "请问A7821智能风控网关（变体6）怎么弄",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0963",
+    "query": "有没有文档说明财务审计要求有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0964",
+    "query": "RTO故障恢复时限",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0965",
+    "query": "有没有文档说明热门商品兜底推荐有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0966",
+    "query": "新员工系统权限吗",
+    "relevant_doc_id": "doc_014",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0967",
+    "query": "帮忙查一下SLA指标要求是什么吗",
+    "relevant_doc_id": "doc_001",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0968",
+    "query": "想了解包裹发到哪了在哪查进度怎么弄",
+    "relevant_doc_id": "doc_010",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0969",
+    "query": "有没有文档说明Wide Deep模型特征有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0970",
+    "query": "帮忙查一下MQ消费幂等？",
+    "relevant_doc_id": "doc_013",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0971",
+    "query": "请问Apollo灰度发布",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0972",
+    "query": "想了解实时拦截高风险交易（变体58）？",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0973",
+    "query": "帮忙查一下实时拦截高风险交易（变体10）？",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0974",
+    "query": "请问Apollo配置中心用法？",
+    "relevant_doc_id": "doc_005",
+    "category": "entity"
+  },
+  {
+    "id": "bench_0975",
+    "query": "请问财务合规制度？",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0976",
+    "query": "请问A7821智能风控网关吗",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0977",
+    "query": "想了解积分和促销叠加吗（变体33）怎么弄",
+    "relevant_doc_id": "doc_009",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0978",
+    "query": "有没有文档说明7821产品规格？",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0979",
+    "query": "想了解大促扩容方案评审有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0980",
+    "query": "想了解履约路由说明吗",
+    "relevant_doc_id": "doc_010",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0981",
+    "query": "想了解大促扩容方案评审（变体8）怎么弄",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0982",
+    "query": "有没有文档说明大促扩容方案评审有哪些要求",
+    "relevant_doc_id": "doc_015",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0983",
+    "query": "帮忙查一下会员积分抵扣规则",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0984",
+    "query": "请问OMS拆单物流（变体48）？",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0985",
+    "query": "有没有文档说明财务风控合规要求",
+    "relevant_doc_id": "doc_008",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0986",
+    "query": "帮忙查一下风控网关日均处理量吗",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0987",
+    "query": "有没有文档说明列表页点击预估（变体32）有哪些要求",
+    "relevant_doc_id": "doc_007",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0988",
+    "query": "新客推荐方案吗",
+    "relevant_doc_id": "doc_006",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0989",
+    "query": "请问积分兑换比例有哪些要求",
+    "relevant_doc_id": "doc_009",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0990",
+    "query": "7821产品规格",
+    "relevant_doc_id": "doc_003",
+    "category": "product_code"
+  },
+  {
+    "id": "bench_0991",
+    "query": "OMS拆单物流",
+    "relevant_doc_id": "doc_010",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0992",
+    "query": "Wide Deep模型特征吗",
+    "relevant_doc_id": "doc_007",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0993",
+    "query": "请问内容特征推荐有哪些要求",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0994",
+    "query": "有没有文档说明公司账户打款要准备啥材料有哪些要求",
+    "relevant_doc_id": "doc_008",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_0995",
+    "query": "请问风控网关日均处理量？",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0996",
+    "query": "帮忙查一下ES索引分片规划怎么弄",
+    "relevant_doc_id": "doc_011",
+    "category": "abbreviation"
+  },
+  {
+    "id": "bench_0997",
+    "query": "热门商品兜底推荐吗",
+    "relevant_doc_id": "doc_006",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0998",
+    "query": "帮忙查一下风控网关日均处理量有哪些要求",
+    "relevant_doc_id": "doc_003",
+    "category": "formal"
+  },
+  {
+    "id": "bench_0999",
+    "query": "帮忙查一下售后申请怎么提有哪些要求",
+    "relevant_doc_id": "doc_002",
+    "category": "colloquial"
+  },
+  {
+    "id": "bench_1000",
+    "query": "有没有文档说明微服务配置统一管理有哪些要求",
+    "relevant_doc_id": "doc_005",
+    "category": "formal"
+  }
+]
