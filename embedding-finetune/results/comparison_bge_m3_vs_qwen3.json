@@ -1,0 +1,473 @@
+{
+  "description": "BGE-M3 vs Qwen3-Embedding-0.6B 零样本对比（当前私有领域语料）",
+  "protocol": {
+    "similarity": "cosine (L2 normalize)",
+    "batch_size": 32,
+    "device": "cpu",
+    "bge_m3": "dense embedding only via sentence-transformers",
+    "qwen3": "query prompt_name=query"
+  },
+  "models": [
+    {
+      "key": "bge_m3",
+      "label": "BGE-M3",
+      "path": "models/bge-m3",
+      "note": "dense-only via SentenceTransformer; dim=1024"
+    },
+    {
+      "key": "qwen3",
+      "label": "Qwen3-Embedding-0.6B",
+      "path": "Qwen/Qwen3-Embedding-0.6B",
+      "note": "query prompt_name=query; dim=1024"
+    }
+  ],
+  "datasets": [
+    {
+      "key": "hard12",
+      "label": "难例集 12 条",
+      "path": "data/test_cases.json",
+      "note": "与 train_pairs 重叠，仅作难例诊断，不作泛化结论"
+    },
+    {
+      "key": "unseen500",
+      "label": "未见泛化 500 条",
+      "path": "data/benchmark_500_unseen.json",
+      "note": "与全部训练/测试数据 0 query 重叠，推荐主结论"
+    },
+    {
+      "key": "bench1k",
+      "label": "Benchmark 1000 条",
+      "path": "data/benchmark_1k.json",
+      "note": "与 train_1k query 重叠，仅作 in-distribution 参考"
+    }
+  ],
+  "summary": [
+    {
+      "dataset": "难例集 12 条",
+      "dataset_key": "hard12",
+      "winner_by_recall@1": "Qwen3-Embedding-0.6B",
+      "BGE-M3": {
+        "recall@1": 0.75,
+        "recall@3": 0.8333333333333334,
+        "recall@5": 0.8333333333333334,
+        "mrr": 0.8174603174603176,
+        "query_ms": 35.3044
+      },
+      "Qwen3-Embedding-0.6B": {
+        "recall@1": 0.9166666666666666,
+        "recall@3": 0.9166666666666666,
+        "recall@5": 1.0,
+        "mrr": 0.9375,
+        "query_ms": 718.7635
+      }
+    },
+    {
+      "dataset": "未见泛化 500 条",
+      "dataset_key": "unseen500",
+      "winner_by_recall@1": "Qwen3-Embedding-0.6B",
+      "BGE-M3": {
+        "recall@1": 0.796,
+        "recall@3": 0.912,
+        "recall@5": 0.946,
+        "mrr": 0.8626498121159887,
+        "query_ms": 46.6438
+      },
+      "Qwen3-Embedding-0.6B": {
+        "recall@1": 0.886,
+        "recall@3": 0.982,
+        "recall@5": 1.0,
+        "mrr": 0.9341666666666667,
+        "query_ms": 938.1276
+      }
+    },
+    {
+      "dataset": "Benchmark 1000 条",
+      "dataset_key": "bench1k",
+      "winner_by_recall@1": "Qwen3-Embedding-0.6B",
+      "BGE-M3": {
+        "recall@1": 0.902,
+        "recall@3": 0.97,
+        "recall@5": 0.977,
+        "mrr": 0.9394489829614829,
+        "query_ms": 37.785
+      },
+      "Qwen3-Embedding-0.6B": {
+        "recall@1": 0.964,
+        "recall@3": 0.997,
+        "recall@5": 1.0,
+        "mrr": 0.9803666666666667,
+        "query_ms": 802.0472
+      }
+    }
+  ],
+  "results": [
+    {
+      "dataset_key": "hard12",
+      "dataset_label": "难例集 12 条",
+      "dataset_note": "与 train_pairs 重叠，仅作难例诊断，不作泛化结论",
+      "label": "BGE-M3",
+      "model_key": "bge_m3",
+      "model_note": "dense-only via SentenceTransformer; dim=1024",
+      "retrieval": {
+        "num_queries": 12,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.75,
+          "recall@3": 0.8333333333333334,
+          "recall@5": 0.8333333333333334,
+          "recall@10": 1.0
+        },
+        "mrr": 0.8174603174603176,
+        "ndcg_at_10": 0.8600391895010678,
+        "failed_at_1": 3,
+        "success_rate_at_1": 0.75
+      },
+      "latency": {
+        "corpus_encode_ms": 2133.41,
+        "query_encode_total_ms": 423.65,
+        "query_encode_ms_per_query": 35.3044,
+        "query_encode_p50_ms": 35.3038,
+        "query_encode_p95_ms": 35.3038,
+        "search_total_ms": 123.05,
+        "search_ms_per_query": 10.2543,
+        "end_to_end_ms_per_query": 223.3425,
+        "throughput_qps": 28.33
+      },
+      "model": {
+        "name": "D:\\cq\\finetune\\embedding-finetune\\models\\bge-m3",
+        "label": "BGE-M3",
+        "parameters": 567754752,
+        "disk_size_mb": 2187.09,
+        "embedding_dim": 1024,
+        "device": "cpu"
+      }
+    },
+    {
+      "dataset_key": "hard12",
+      "dataset_label": "难例集 12 条",
+      "dataset_note": "与 train_pairs 重叠，仅作难例诊断，不作泛化结论",
+      "label": "Qwen3-Embedding-0.6B",
+      "model_key": "qwen3",
+      "model_note": "query prompt_name=query; dim=1024",
+      "retrieval": {
+        "num_queries": 12,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.9166666666666666,
+          "recall@3": 0.9166666666666666,
+          "recall@5": 1.0,
+          "recall@10": 1.0
+        },
+        "mrr": 0.9375,
+        "ndcg_at_10": 0.9525563798394495,
+        "failed_at_1": 1,
+        "success_rate_at_1": 0.9166666666666666
+      },
+      "latency": {
+        "corpus_encode_ms": 26724.87,
+        "query_encode_total_ms": 8625.16,
+        "query_encode_ms_per_query": 718.7635,
+        "query_encode_p50_ms": 718.7625,
+        "query_encode_p95_ms": 718.7625,
+        "search_total_ms": 2.42,
+        "search_ms_per_query": 0.2014,
+        "end_to_end_ms_per_query": 2946.0375,
+        "throughput_qps": 1.39
+      },
+      "model": {
+        "name": "C:\\Users\\76520\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-Embedding-0.6B\\snapshots\\97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+        "label": "Qwen3-Embedding-0.6B",
+        "parameters": 595776512,
+        "disk_size_mb": 1151.55,
+        "embedding_dim": 1024,
+        "device": "cpu"
+      }
+    },
+    {
+      "dataset_key": "unseen500",
+      "dataset_label": "未见泛化 500 条",
+      "dataset_note": "与全部训练/测试数据 0 query 重叠，推荐主结论",
+      "label": "BGE-M3",
+      "model_key": "bge_m3",
+      "model_note": "dense-only via SentenceTransformer; dim=1024",
+      "retrieval": {
+        "num_queries": 500,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.796,
+          "recall@3": 0.912,
+          "recall@5": 0.946,
+          "recall@10": 0.976
+        },
+        "mrr": 0.8626498121159887,
+        "ndcg_at_10": 0.8891165371003846,
+        "failed_at_1": 102,
+        "success_rate_at_1": 0.796
+      },
+      "latency": {
+        "corpus_encode_ms": 2116.75,
+        "query_encode_total_ms": 23321.92,
+        "query_encode_ms_per_query": 46.6438,
+        "query_encode_p50_ms": 47.3179,
+        "query_encode_p95_ms": 52.2932,
+        "search_total_ms": 93.14,
+        "search_ms_per_query": 0.1863,
+        "end_to_end_ms_per_query": 51.0636,
+        "throughput_qps": 21.44
+      },
+      "model": {
+        "name": "D:\\cq\\finetune\\embedding-finetune\\models\\bge-m3",
+        "label": "BGE-M3",
+        "parameters": 567754752,
+        "disk_size_mb": 2187.09,
+        "embedding_dim": 1024,
+        "device": "cpu"
+      }
+    },
+    {
+      "dataset_key": "unseen500",
+      "dataset_label": "未见泛化 500 条",
+      "dataset_note": "与全部训练/测试数据 0 query 重叠，推荐主结论",
+      "label": "Qwen3-Embedding-0.6B",
+      "model_key": "qwen3",
+      "model_note": "query prompt_name=query; dim=1024",
+      "retrieval": {
+        "num_queries": 500,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.886,
+          "recall@3": 0.982,
+          "recall@5": 1.0,
+          "recall@10": 1.0
+        },
+        "mrr": 0.9341666666666667,
+        "ndcg_at_10": 0.950917260795323,
+        "failed_at_1": 57,
+        "success_rate_at_1": 0.886
+      },
+      "latency": {
+        "corpus_encode_ms": 23763.91,
+        "query_encode_total_ms": 469063.82,
+        "query_encode_ms_per_query": 938.1276,
+        "query_encode_p50_ms": 917.8362,
+        "query_encode_p95_ms": 1109.6862,
+        "search_total_ms": 89.06,
+        "search_ms_per_query": 0.1781,
+        "end_to_end_ms_per_query": 985.8336,
+        "throughput_qps": 1.07
+      },
+      "model": {
+        "name": "C:\\Users\\76520\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-Embedding-0.6B\\snapshots\\97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+        "label": "Qwen3-Embedding-0.6B",
+        "parameters": 595776512,
+        "disk_size_mb": 1151.55,
+        "embedding_dim": 1024,
+        "device": "cpu"
+      }
+    },
+    {
+      "dataset_key": "bench1k",
+      "dataset_label": "Benchmark 1000 条",
+      "dataset_note": "与 train_1k query 重叠，仅作 in-distribution 参考",
+      "label": "BGE-M3",
+      "model_key": "bge_m3",
+      "model_note": "dense-only via SentenceTransformer; dim=1024",
+      "retrieval": {
+        "num_queries": 1000,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.902,
+          "recall@3": 0.97,
+          "recall@5": 0.977,
+          "recall@10": 0.996
+        },
+        "mrr": 0.9394489829614829,
+        "ndcg_at_10": 0.9531539292557107,
+        "failed_at_1": 98,
+        "success_rate_at_1": 0.902
+      },
+      "latency": {
+        "corpus_encode_ms": 1988.54,
+        "query_encode_total_ms": 37784.99,
+        "query_encode_ms_per_query": 37.785,
+        "query_encode_p50_ms": 36.517,
+        "query_encode_p95_ms": 43.0217,
+        "search_total_ms": 180.82,
+        "search_ms_per_query": 0.1808,
+        "end_to_end_ms_per_query": 39.9543,
+        "throughput_qps": 26.47
+      },
+      "model": {
+        "name": "D:\\cq\\finetune\\embedding-finetune\\models\\bge-m3",
+        "label": "BGE-M3",
+        "parameters": 567754752,
+        "disk_size_mb": 2187.09,
+        "embedding_dim": 1024,
+        "device": "cpu"
+      }
+    },
+    {
+      "dataset_key": "bench1k",
+      "dataset_label": "Benchmark 1000 条",
+      "dataset_note": "与 train_1k query 重叠，仅作 in-distribution 参考",
+      "label": "Qwen3-Embedding-0.6B",
+      "model_key": "qwen3",
+      "model_note": "query prompt_name=query; dim=1024",
+      "retrieval": {
+        "num_queries": 1000,
+        "num_corpus": 25,
+        "recall_at_k": {
+          "recall@1": 0.964,
+          "recall@3": 0.997,
+          "recall@5": 1.0,
+          "recall@10": 1.0
+        },
+        "mrr": 0.9803666666666667,
+        "ndcg_at_10": 0.9854142390233821,
+        "failed_at_1": 36,
+        "success_rate_at_1": 0.964
+      },
+      "latency": {
+        "corpus_encode_ms": 23221.87,
+        "query_encode_total_ms": 802047.16,
+        "query_encode_ms_per_query": 802.0472,
+        "query_encode_p50_ms": 807.8405,
+        "query_encode_p95_ms": 868.6185,
+        "search_total_ms": 178.77,
+        "search_ms_per_query": 0.1788,
+        "end_to_end_ms_per_query": 825.4478,
+        "throughput_qps": 1.25
+      },
+      "model": {
+        "name": "C:\\Users\\76520\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-Embedding-0.6B\\snapshots\\97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+        "label": "Qwen3-Embedding-0.6B",
+        "parameters": 595776512,
+        "disk_size_mb": 1151.55,
+        "embedding_dim": 1024,
+        "device": "cpu"
+      }
+    }
+  ],
+  "hard12_case_diff": [
+    {
+      "query": "核心接口挂了最多能修多久",
+      "category": "abbreviation",
+      "relevant_doc_id": "doc_001",
+      "bge_m3_hit": true,
+      "bge_m3_rank": 1,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "both"
+    },
+    {
+      "query": "买家不想买了怎么把钱退回去",
+      "category": "colloquial",
+      "relevant_doc_id": "doc_002",
+      "bge_m3_hit": true,
+      "bge_m3_rank": 1,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "both"
+    },
+    {
+      "query": "7821那台风控盒子是干嘛的",
+      "category": "product_code",
+      "relevant_doc_id": "doc_003",
+      "bge_m3_hit": true,
+      "bge_m3_rank": 1,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "both"
+    },
+    {
+      "query": "怎么拦住刷单和黑产注册",
+      "category": "domain_synonym",
+      "relevant_doc_id": "doc_004",
+      "bge_m3_hit": true,
+      "bge_m3_rank": 1,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "both"
+    },
+    {
+      "query": "线上配置能直接在后台改吗",
+      "category": "entity_disambiguation",
+      "relevant_doc_id": "doc_005",
+      "bge_m3_hit": true,
+      "bge_m3_rank": 1,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "both"
+    },
+    {
+      "query": "没人买过东西的新客推什么货",
+      "category": "domain_jargon",
+      "relevant_doc_id": "doc_006",
+      "bge_m3_hit": true,
+      "bge_m3_rank": 1,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "both"
+    },
+    {
+      "query": "列表里用户会不会点进去",
+      "category": "abbreviation",
+      "relevant_doc_id": "doc_007",
+      "bge_m3_hit": false,
+      "bge_m3_rank": 6,
+      "qwen3_hit": false,
+      "qwen3_rank": 4,
+      "winner": "neither"
+    },
+    {
+      "query": "公司账户打款要准备啥材料",
+      "category": "domain_synonym",
+      "relevant_doc_id": "doc_008",
+      "bge_m3_hit": true,
+      "bge_m3_rank": 1,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "both"
+    },
+    {
+      "query": "攒的分能不能当现金用",
+      "category": "colloquial",
+      "relevant_doc_id": "doc_009",
+      "bge_m3_hit": true,
+      "bge_m3_rank": 1,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "both"
+    },
+    {
+      "query": "包裹发到哪了在哪查进度",
+      "category": "domain_jargon",
+      "relevant_doc_id": "doc_010",
+      "bge_m3_hit": false,
+      "bge_m3_rank": 7,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "qwen3"
+    },
+    {
+      "query": "搜索越来越慢是不是索引有问题",
+      "category": "abbreviation",
+      "relevant_doc_id": "doc_011",
+      "bge_m3_hit": false,
+      "bge_m3_rank": 2,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "qwen3"
+    },
+    {
+      "query": "日志里别把用户手机号全打出来",
+      "category": "colloquial",
+      "relevant_doc_id": "doc_012",
+      "bge_m3_hit": true,
+      "bge_m3_rank": 1,
+      "qwen3_hit": true,
+      "qwen3_rank": 1,
+      "winner": "both"
+    }
+  ]
+}
